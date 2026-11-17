@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
-  "file_count": 856,
-  "bytes": 94743635,
+  "file_count": 994,
+  "bytes": 138625812,
   "files": [
     {
       "path": ".nojekyll",
@@ -10,8 +10,8 @@
     },
     {
       "path": "ASSETS.md",
-      "bytes": 823,
-      "sha256": "ee914520fcc5f9d6a35bae3bfabc51b3d7a99c33c2e29b1b4ef17e3c33d6877f"
+      "bytes": 1303,
+      "sha256": "fb46e880afbec0150088e8bc98915ca0c500e905421a49e77faaea947d9205b9"
     },
     {
       "path": "README.md",
@@ -2059,6 +2059,906 @@
       "sha256": "91b0e953fe60a3c3eb06642eab64f34e186c89b56212aed7ae32c104ac0b9f6a"
     },
     {
+      "path": "assets/robot/mu0/task1-1/reference.jpg",
+      "bytes": 43998,
+      "sha256": "f8ed46e4a396c33d334414dbdee56e8ec9b7de0d1ed3575efbca82a4285a945e"
+    },
+    {
+      "path": "assets/robot/mu0/task1-1/task1-1-realrobot.mp4",
+      "bytes": 342170,
+      "sha256": "02a5b35f019bda1d24fed61a8a773c1806c43a2e3303224343fc1de1d917229c"
+    },
+    {
+      "path": "assets/robot/mu0/task1-2/reference.jpg",
+      "bytes": 42160,
+      "sha256": "2f4c8647de3a1dd8badecfb1f601cc12faf7137686ede694c2734c299bc04978"
+    },
+    {
+      "path": "assets/robot/mu0/task1-2/task1-2-realrobot.mp4",
+      "bytes": 324220,
+      "sha256": "40e7abee0097f417e0bb31e624c9a835c85a7e193e47375c1d7c958e3173099c"
+    },
+    {
+      "path": "assets/robot/mu0/task1-3/reference.jpg",
+      "bytes": 40086,
+      "sha256": "091ff420c5b99a00fda65127cb39341a7892e799893c4a49241e1e8df5f000a4"
+    },
+    {
+      "path": "assets/robot/mu0/task1-3/task1-3-realrobot.mp4",
+      "bytes": 409295,
+      "sha256": "d3146d063131d11e749b2987de1d7b6e36fb05011b420f38864b59386ad0367d"
+    },
+    {
+      "path": "assets/robot/mu0/task10-1/reference.jpg",
+      "bytes": 41055,
+      "sha256": "3762d079093e493168ff22f19586bba8e667d32097ee71bb079f0de3667f050a"
+    },
+    {
+      "path": "assets/robot/mu0/task10-1/task10-1-realrobot.mp4",
+      "bytes": 499155,
+      "sha256": "7bce688028ba6d437a622d2640f6ee9cdafe555255a7a317d26bfb576c6f21e6"
+    },
+    {
+      "path": "assets/robot/mu0/task10-2/reference.jpg",
+      "bytes": 47488,
+      "sha256": "cac72274290adbfc107b50d391ff9011d95bd7a1d41379433648acb4e74677ca"
+    },
+    {
+      "path": "assets/robot/mu0/task10-2/task10-2-realrobot.mp4",
+      "bytes": 256948,
+      "sha256": "bbf64b08c39c95fe7b7cbefa81f6c3f67dfd8af308d059008890ef9b09b2e193"
+    },
+    {
+      "path": "assets/robot/mu0/task10-3/reference.jpg",
+      "bytes": 44851,
+      "sha256": "6e67ded7d53030ec3c77d324410e396989d6a8c005691d2e937780e3879dfb6c"
+    },
+    {
+      "path": "assets/robot/mu0/task10-3/task10-3-realrobot.mp4",
+      "bytes": 339987,
+      "sha256": "fb0b386108ca866c8d641f57bdf810f8af9bcda05302b95a019233595e989e8a"
+    },
+    {
+      "path": "assets/robot/mu0/task11-1/reference.jpg",
+      "bytes": 44709,
+      "sha256": "ab2be952bfc1a41339c9a4629e00cc788951e2a49f02af0f781631b4b6ce7f39"
+    },
+    {
+      "path": "assets/robot/mu0/task11-1/task11-1-realrobot.mp4",
+      "bytes": 282354,
+      "sha256": "23ba4d00bfb8bac94eea3534fc4062a84ad7aaf72ee9e7227a4fe7ce2523bcc5"
+    },
+    {
+      "path": "assets/robot/mu0/task11-2/reference.jpg",
+      "bytes": 38117,
+      "sha256": "bce7e408a66ab64eceadb1e3fffe86eb1e1c121b631f916702bdd2a999d53a5e"
+    },
+    {
+      "path": "assets/robot/mu0/task11-2/task11-2-realrobot.mp4",
+      "bytes": 328581,
+      "sha256": "c2ccbda0117375e110dd0a9295d5c46a7b2a2bd8aa30cb59779e535800560bfa"
+    },
+    {
+      "path": "assets/robot/mu0/task11-3/reference.jpg",
+      "bytes": 37655,
+      "sha256": "934dd50d66dc7c468454f68818ce32059228dce39ec1fb7373ab509dc2c9ada1"
+    },
+    {
+      "path": "assets/robot/mu0/task11-3/task11-3-realrobot.mp4",
+      "bytes": 348742,
+      "sha256": "67a82b1d0dfb5d6f0c788f376412a22ad1fb23f0023f35b49ecf8f5aa5bdad30"
+    },
+    {
+      "path": "assets/robot/mu0/task12-1/reference.jpg",
+      "bytes": 42846,
+      "sha256": "8b10be9ed46b35446708b6048d335e846eccee3558ee3440b2e03c37e2d7473d"
+    },
+    {
+      "path": "assets/robot/mu0/task12-1/task12-1-realrobot.mp4",
+      "bytes": 310438,
+      "sha256": "3ae55e6ec5e6f012bcbdaf0c7411aea399a2548ea9c6e6e51929b0851884d3b7"
+    },
+    {
+      "path": "assets/robot/mu0/task12-2/reference.jpg",
+      "bytes": 43169,
+      "sha256": "952afd0247489b8e3f7634c69996da476f279b048d45be70e79f0ea7b3775689"
+    },
+    {
+      "path": "assets/robot/mu0/task12-2/task12-2-realrobot.mp4",
+      "bytes": 330623,
+      "sha256": "568695f23b54ea3d504d5355c3a1c7a83ac0e44edfe0eab34189ac1c678435d3"
+    },
+    {
+      "path": "assets/robot/mu0/task12-3/reference.jpg",
+      "bytes": 43844,
+      "sha256": "44575dce2b73e0a7743f2c692409d1d5109006a9a4e39a2e4f23b2bc61735a9e"
+    },
+    {
+      "path": "assets/robot/mu0/task12-3/task12-3-realrobot.mp4",
+      "bytes": 557024,
+      "sha256": "f86078d3b225d703c4e223bb53e9f8a1fea77c8c0f5fb979d7b4523fad0022b0"
+    },
+    {
+      "path": "assets/robot/mu0/task2-1/reference.jpg",
+      "bytes": 39353,
+      "sha256": "04d64b1ef1117d0b17983211f127970380055b9a606c13197d78a7b426cbf0ef"
+    },
+    {
+      "path": "assets/robot/mu0/task2-1/task2-1-realrobot.mp4",
+      "bytes": 628532,
+      "sha256": "69ac1197f86fea86768f5bbc32564274d805bd64268b01361a86346127c158a0"
+    },
+    {
+      "path": "assets/robot/mu0/task2-2/reference.jpg",
+      "bytes": 46210,
+      "sha256": "fc3d658b7ace4e7c7ac17e0d709419bcbbb2b8b7747f6ae98356dd867281f37c"
+    },
+    {
+      "path": "assets/robot/mu0/task2-2/task2-2-realrobot.mp4",
+      "bytes": 837240,
+      "sha256": "79f2bb8ff93649e3ce8cea6afbd3a9688cfb359b83189ffca08494538b3756c9"
+    },
+    {
+      "path": "assets/robot/mu0/task2-3/reference.jpg",
+      "bytes": 40816,
+      "sha256": "0818fd69b5b2c72ab55c08397b60b1c5f6a8920443538b71bb94caee1895cb88"
+    },
+    {
+      "path": "assets/robot/mu0/task2-3/task2-3-realrobot.mp4",
+      "bytes": 610970,
+      "sha256": "dea77b0bf410b3a5c33971190427e857f3f14958b0c3758bbfba369ee71a4b7d"
+    },
+    {
+      "path": "assets/robot/mu0/task3-1/reference.jpg",
+      "bytes": 41390,
+      "sha256": "16bba9b3a0fab4d6aec24b3758240de088b0d7b89da5ec06e059ee79e8c07252"
+    },
+    {
+      "path": "assets/robot/mu0/task3-1/task3-1-realrobot.mp4",
+      "bytes": 268268,
+      "sha256": "1f43e6d32711365f25a69d997e18f8b879dc17d3a54ba47cc8d59c940504bf11"
+    },
+    {
+      "path": "assets/robot/mu0/task3-2/reference.jpg",
+      "bytes": 51285,
+      "sha256": "091f10c16b3e1e179710833552ed8a4a6fbb733cca75c859ceea43788ec70c9a"
+    },
+    {
+      "path": "assets/robot/mu0/task3-2/task3-2-realrobot.mp4",
+      "bytes": 537167,
+      "sha256": "c56747342c6da78f4ec509df93ccede6e8030551e7d0713b73f3f028e7729057"
+    },
+    {
+      "path": "assets/robot/mu0/task3-3/reference.jpg",
+      "bytes": 53756,
+      "sha256": "5373f2ec52d37e44b7e8bd8608e845d15d5ac418fca11d7449c6d1ae0ab2bd40"
+    },
+    {
+      "path": "assets/robot/mu0/task3-3/task3-3-realrobot.mp4",
+      "bytes": 274591,
+      "sha256": "6f670804b5e281aa06dab9b52fedfdbfc66723d2a0b4cab33d14bf1c2943365a"
+    },
+    {
+      "path": "assets/robot/mu0/task4-1/reference.jpg",
+      "bytes": 52492,
+      "sha256": "95ac39e2f681d2a309109d0d20f8b27798b799572d53080a66fbcc16d180c6f4"
+    },
+    {
+      "path": "assets/robot/mu0/task4-1/task4-1-realrobot.mp4",
+      "bytes": 395062,
+      "sha256": "e98ea29685920a68a2924e1c4a35d1145645c09daeab5c966cc5ba6bb98a8290"
+    },
+    {
+      "path": "assets/robot/mu0/task4-2/reference.jpg",
+      "bytes": 52465,
+      "sha256": "a69cc159ebd294a7cfdab84569dfee743d3f2c391c439a396b14b72c63e3e5e5"
+    },
+    {
+      "path": "assets/robot/mu0/task4-2/task4-2-realrobot.mp4",
+      "bytes": 416054,
+      "sha256": "d5e6d155a6e9cef3346dafa374d516adcc40e41e7c46cc7c1e262ce154df349c"
+    },
+    {
+      "path": "assets/robot/mu0/task4-3/reference.jpg",
+      "bytes": 50614,
+      "sha256": "7a35febc5c4bea780a446a35a5804c5643b247c1532f646b79845e81e1c4a593"
+    },
+    {
+      "path": "assets/robot/mu0/task4-3/task4-3-realrobot.mp4",
+      "bytes": 417777,
+      "sha256": "6011e958faceeee23ea620aa221309b16b792e35cb1e4f497c479f7840027aa8"
+    },
+    {
+      "path": "assets/robot/mu0/task5-1/reference.jpg",
+      "bytes": 42620,
+      "sha256": "38e418b7789c9f19b04871e079784d0599072d25e8295f1d5a91d8777b5a73ee"
+    },
+    {
+      "path": "assets/robot/mu0/task5-1/task5-1-realrobot.mp4",
+      "bytes": 310392,
+      "sha256": "d1b370510e01ca26f51bac2f03d4bf4ac70d121cca08a9ffcbbdf1d7795a9a26"
+    },
+    {
+      "path": "assets/robot/mu0/task5-2/reference.jpg",
+      "bytes": 37018,
+      "sha256": "14268c26d5f602f3fc87a99eba889b721b1bbe4bac1037a72dc15816f07f5dd7"
+    },
+    {
+      "path": "assets/robot/mu0/task5-2/task5-2-realrobot.mp4",
+      "bytes": 368356,
+      "sha256": "6776b4d8c1fe33038f562374c3111cec4e1aacfcfb505fa1a464c8669c59aff6"
+    },
+    {
+      "path": "assets/robot/mu0/task5-3/reference.jpg",
+      "bytes": 39805,
+      "sha256": "b71a1f4130d1d2a03a3104eb18517594637d76e4b8101c2b18f1a3f17066b53c"
+    },
+    {
+      "path": "assets/robot/mu0/task5-3/task5-3-realrobot.mp4",
+      "bytes": 394552,
+      "sha256": "43149573a8c7f2f447e9fc42f114016c7c54120519d0d1ecbd60fe153042e661"
+    },
+    {
+      "path": "assets/robot/mu0/task6-1/reference.jpg",
+      "bytes": 48881,
+      "sha256": "4e6c43fa8a9adca381a2d8e219eef5fc369528f725a71f681c490f26df297a08"
+    },
+    {
+      "path": "assets/robot/mu0/task6-1/task6-1-realrobot.mp4",
+      "bytes": 463502,
+      "sha256": "596aac391404770385dddfab8db31c13607335342c5467288ea6a901183073d4"
+    },
+    {
+      "path": "assets/robot/mu0/task6-2/reference.jpg",
+      "bytes": 45092,
+      "sha256": "22d0f0f7e361f55d2490e3878496032dccbd2f9909d2deccd1a23b960406b0f6"
+    },
+    {
+      "path": "assets/robot/mu0/task6-2/task6-2-realrobot.mp4",
+      "bytes": 349364,
+      "sha256": "40361f4dbb3f344d1751372804602706ec85f379158d0b8b0659a3ab517b11d7"
+    },
+    {
+      "path": "assets/robot/mu0/task6-3/reference.jpg",
+      "bytes": 41343,
+      "sha256": "1969bea85d80a3db3e23ec9f9cb6f74dab775d89afa37a78469f27968e26fa4d"
+    },
+    {
+      "path": "assets/robot/mu0/task6-3/task6-3-realrobot.mp4",
+      "bytes": 526563,
+      "sha256": "1e5659f20f7529c0a8e389c44eb9391bb6608c89bad7522e7ad8d2a7ad53805c"
+    },
+    {
+      "path": "assets/robot/mu0/task7-1/reference.jpg",
+      "bytes": 38281,
+      "sha256": "89f9d630c7f3a0f3e665f86164c89184deccccb49207afcb7e845dfa40ead155"
+    },
+    {
+      "path": "assets/robot/mu0/task7-1/task7-1-realrobot.mp4",
+      "bytes": 437964,
+      "sha256": "8802c7932342d2120422684ea595b694ac2b7d15357023dbbfbe5e5bdbc059aa"
+    },
+    {
+      "path": "assets/robot/mu0/task7-2/reference.jpg",
+      "bytes": 42256,
+      "sha256": "121a504d729504c4244bc0ac2169db70ab47cf672bb039698db507c9ac6e78cb"
+    },
+    {
+      "path": "assets/robot/mu0/task7-2/task7-2-realrobot.mp4",
+      "bytes": 351293,
+      "sha256": "b89612b3cb61fc7f0e5c1acae1891ae4506060fc83d6fe53db1da68682a30b48"
+    },
+    {
+      "path": "assets/robot/mu0/task7-3/reference.jpg",
+      "bytes": 46455,
+      "sha256": "6c3f3e623258104489710499b49a6497febca86c755673379c90fa3930310905"
+    },
+    {
+      "path": "assets/robot/mu0/task7-3/task7-3-realrobot.mp4",
+      "bytes": 501581,
+      "sha256": "a292497f58624339060d4671b91037a502d0b812bf9afae176f48ea761bfdbd7"
+    },
+    {
+      "path": "assets/robot/mu0/task8-1/reference.jpg",
+      "bytes": 47495,
+      "sha256": "6639d880fde3c2981db1589f376a5dc1d1f3658959d3e52425f87d5d3832083c"
+    },
+    {
+      "path": "assets/robot/mu0/task8-1/task8-1-realrobot.mp4",
+      "bytes": 430575,
+      "sha256": "577f8c49b5a9ee536350078c71d4ebdb6787f54d21288b8e449f04b7a7a95664"
+    },
+    {
+      "path": "assets/robot/mu0/task8-2/reference.jpg",
+      "bytes": 48756,
+      "sha256": "d5c325914af4b76b2010c0775fafe2c1ca0ebf4ff17ce6d373035b9e36ab7f2e"
+    },
+    {
+      "path": "assets/robot/mu0/task8-2/task8-2-realrobot.mp4",
+      "bytes": 364022,
+      "sha256": "42435ad5dba279fbad6eacce0ef8894a008498e32f32215ef3050befecff88d2"
+    },
+    {
+      "path": "assets/robot/mu0/task8-3/reference.jpg",
+      "bytes": 53732,
+      "sha256": "c43629a6668b36ee0f05ac055e216da0e830a324c87ca993da2ebd538945da13"
+    },
+    {
+      "path": "assets/robot/mu0/task8-3/task8-3-realrobot.mp4",
+      "bytes": 480566,
+      "sha256": "95f9c8d6dadff28a244b13f4f8efc6c75061c13ec70e5b7e4444a9f913768611"
+    },
+    {
+      "path": "assets/robot/mu0/task9-1/reference.jpg",
+      "bytes": 42641,
+      "sha256": "70ef3a3e6716cf7098e61bf48cb302b57890e2bc28d6f2e4c27063e15f73cc31"
+    },
+    {
+      "path": "assets/robot/mu0/task9-1/task9-1-realrobot.mp4",
+      "bytes": 464694,
+      "sha256": "92c6a13eeb07dce5dff238835aa71bc2e3dd9f3b5c0dd0c2c18c852c8c115651"
+    },
+    {
+      "path": "assets/robot/mu0/task9-2/reference.jpg",
+      "bytes": 36310,
+      "sha256": "522ce409f8a1cbe648b6012da3a83111d6ffaed8eae8fefd78e1e5c262057f1f"
+    },
+    {
+      "path": "assets/robot/mu0/task9-2/task9-2-realrobot.mp4",
+      "bytes": 327857,
+      "sha256": "fd6a99f1699502222756535f6008420d1aea3358e2c59cc29cf44e88208483b7"
+    },
+    {
+      "path": "assets/robot/mu0/task9-3/reference.jpg",
+      "bytes": 43023,
+      "sha256": "86e6b745034eba115787a4658833c0f69db07fe664d620e376df90634a58e66e"
+    },
+    {
+      "path": "assets/robot/mu0/task9-3/task9-3-realrobot.mp4",
+      "bytes": 668858,
+      "sha256": "258bf4bb70951dced79aea19f31ffe8eb71168f73a378c9ad78dda80335594b2"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-1/flow_gen.mp4",
+      "bytes": 61537,
+      "sha256": "e55eceb0040425e70124f26555768533a8f00223210c679f54269344a70795d2"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-1/reference.jpg",
+      "bytes": 43708,
+      "sha256": "9d417c04209d8ba9f45cffa4b1842423112683bb23eef63b076c00d9348b71d0"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-1/task1-1-realrobot.mp4",
+      "bytes": 511865,
+      "sha256": "65b65eb318bd1009d23e227aabc5f54fc46138e01d92f8a303495a08c7dd2164"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-2/flow_gen.mp4",
+      "bytes": 50565,
+      "sha256": "50cf9c14a47170be3a2ac8782de5427d76261e17fc9d71db3029576061e3f73d"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-2/reference.jpg",
+      "bytes": 35390,
+      "sha256": "8f4e338c806b02461b934dff2837a26e0488254ea7a243e345c7d1f31b5210dc"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-2/task1-2-realrobot.mp4",
+      "bytes": 493483,
+      "sha256": "f31298c1230aece07c40d230b45334aa99084844c40b1f5b62f3363a8f518bd5"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-3/flow_gen.mp4",
+      "bytes": 56237,
+      "sha256": "24f9971009f67f99a77124d53597fdb7cf3726b6ea8e3796b48ff0a14e457df5"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-3/reference.jpg",
+      "bytes": 40890,
+      "sha256": "8b9d2420fbafafa1ac3c8c9815d2d117640812439b3de1dac633b53839ca2887"
+    },
+    {
+      "path": "assets/robot/worldflow/task1-3/task1-3-realrobot.mp4",
+      "bytes": 538343,
+      "sha256": "bbfff830bb19cfc9ae73325566919272547e3de8e76705ec3198317554b3ba17"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-1/flow_gen.mp4",
+      "bytes": 61356,
+      "sha256": "706f767a4673962337322328b1015f44be769dce111ce91ced5e464af10f3c2b"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-1/reference.jpg",
+      "bytes": 39990,
+      "sha256": "fd383b242650e45f529d56dbb8cf842641ee3b1abe6263679695ee9e637080a0"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-1/task10-1-realrobot.mp4",
+      "bytes": 396222,
+      "sha256": "897f1beec08fcca87efbbe41e4ff713eac1546191ccc36b3467b74fa6d3bbec8"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-2/flow_gen.mp4",
+      "bytes": 57311,
+      "sha256": "a6778c521d3e277d16b462ecd4faa125ae5d4473d5afd08a2e00f28ab57bf1d2"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-2/reference.jpg",
+      "bytes": 41700,
+      "sha256": "92abd27bbb99fd7041f37538840605c679ca215ed550b2cd2327beb03d4774c2"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-2/task10-2-realrobot.mp4",
+      "bytes": 516566,
+      "sha256": "0569ad348262cd732037d2b31f82e33f0f8cb9bd06285dfb273a78600061a576"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-3/flow_gen.mp4",
+      "bytes": 67107,
+      "sha256": "590b35d54523be4f108505717e711194ea402de33d6a24ecc61574ed911eb1b1"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-3/reference.jpg",
+      "bytes": 41122,
+      "sha256": "61d40aeec2addf776be0af274fb320a9003cf5fed56fea549c4135483c6f753d"
+    },
+    {
+      "path": "assets/robot/worldflow/task10-3/task10-3-realrobot.mp4",
+      "bytes": 427260,
+      "sha256": "4e418a2535927f3ee6ad9fac43fe26720a31297fa01ba96f5bce193efec7c44c"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-1/flow_gen.mp4",
+      "bytes": 63631,
+      "sha256": "83153a29a08750febbe35002b647ea3df54b3417dc5c0da0e1dd163d6fca29e4"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-1/reference.jpg",
+      "bytes": 46243,
+      "sha256": "a4440def03fe705429556460ee6de55b491d1886cf33190a69c890444d7d852d"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-1/task11-1-realrobot.mp4",
+      "bytes": 429749,
+      "sha256": "87279a10933a8993406ea9c0847fda80695f14353864c6fad524954b7c1bb135"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-2/flow_gen.mp4",
+      "bytes": 51999,
+      "sha256": "79792e28629ed6409565f4621b58ab9920fc067748c20eeb2f12f20f36c806da"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-2/reference.jpg",
+      "bytes": 39780,
+      "sha256": "d5092f449251c71d4889d4ac9a5d53ab78feda37443e9793e39e7f506f46673c"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-2/task11-2-realrobot.mp4",
+      "bytes": 555762,
+      "sha256": "0c4f033e4c9b52d6d25f85cc3be61a94fbc966a5461497b5d1710d3e48b0ef31"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-3/flow_gen.mp4",
+      "bytes": 62585,
+      "sha256": "25ae601b3604f757cb6f633eb6fff81d09c08630ab3fc0d926621cbefacc08a8"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-3/reference.jpg",
+      "bytes": 37291,
+      "sha256": "0e9598f388d2e6f292dd4d92b8fe8dc1a46ba4d4fba3dad3f69519bdc04ea1e4"
+    },
+    {
+      "path": "assets/robot/worldflow/task11-3/task11-3-realrobot.mp4",
+      "bytes": 483766,
+      "sha256": "08a039690bb29ef7b4c212d915b809e3a35b88a74dbc16f64d415b75e7f6d319"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-1/flow_gen.mp4",
+      "bytes": 57145,
+      "sha256": "ed582e0d8a1cfa9c8ddb3d5589db3db88b34b2c948176ba7e0ea665e90f412d7"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-1/reference.jpg",
+      "bytes": 41158,
+      "sha256": "4f63f84530a8f2fe578f357bec05d1d2b21bb26fc75531c2d4566a6a382bf686"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-1/task12-1-realrobot.mp4",
+      "bytes": 433673,
+      "sha256": "c90960d777903aeecec60ed5e43cc55ffe72aa1767e474535361a5df487242a4"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-2/flow_gen.mp4",
+      "bytes": 63047,
+      "sha256": "9837d4d4d7b30e5340e787ca75d517c20ff1e8a0acb219d1a4493fff4534e615"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-2/reference.jpg",
+      "bytes": 43943,
+      "sha256": "7b2221cde9cbe86b0cce5df9b8b66ff971e0efd8ba7b916261efc44798f6f6bb"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-2/task12-2-realrobot.mp4",
+      "bytes": 512005,
+      "sha256": "627a86e1d807e5216edff997be8de194968b564e93671c27e21720d310db41af"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-3/flow_gen.mp4",
+      "bytes": 57710,
+      "sha256": "4ff075668c93ec977dfb06e3484faa61d594275174124c00e7d51b2e03c8f535"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-3/reference.jpg",
+      "bytes": 49272,
+      "sha256": "fbff7d6622be177e4be1d6b4f42243dced1027e6219bf4fbac48fc3588793995"
+    },
+    {
+      "path": "assets/robot/worldflow/task12-3/task12-3-realrobot.mp4",
+      "bytes": 328139,
+      "sha256": "4b925338094d3ba96230ac6fffd5b0526ef403295189b1196d5d29f98527f071"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-1/flow_gen.mp4",
+      "bytes": 65919,
+      "sha256": "1e54b01743d68421c26b59a52362c4800654ea953ffe6628e0f432590a27d8e8"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-1/reference.jpg",
+      "bytes": 48569,
+      "sha256": "1e9abad06639df8d17dfe125a5184e6c8997f00b344fceb3f9b10e3cfa878ca2"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-1/task2-1-realrobot.mp4",
+      "bytes": 454137,
+      "sha256": "23654bfe14665de241ebe1a11548dc476d35edf26f8a4eec02f6ab1bb29cbd3e"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-2/flow_gen.mp4",
+      "bytes": 63590,
+      "sha256": "fc23c99d5da3797b56b4c488f8ce51eaf979934b21aadf1fa34c5db733ceea36"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-2/reference.jpg",
+      "bytes": 46058,
+      "sha256": "75c14cf9f02c0b122ac8e479a743924805c31dc81779e3486e5df2e4884f6760"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-2/task2-2-realrobot.mp4",
+      "bytes": 617132,
+      "sha256": "fc175de07751d064fdcb964620f6d9e193c78c457102527ea333c6b26ef62dfc"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-3/flow_gen.mp4",
+      "bytes": 62332,
+      "sha256": "522e3c2ccf532fd57a89e63da412a3ef5d441b84d20dd7230f351f25cebb7805"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-3/reference.jpg",
+      "bytes": 41508,
+      "sha256": "a28fcf731b56dc7d62ab28d7c63c2446bbb31805c53787b890778c54aba81754"
+    },
+    {
+      "path": "assets/robot/worldflow/task2-3/task2-3-realrobot.mp4",
+      "bytes": 473442,
+      "sha256": "eb0d255e8993091ce9b84be38d5b88ae0392b98a3bdf4d7c3e927f5adb6a5d54"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-1/flow_gen.mp4",
+      "bytes": 59646,
+      "sha256": "d1ec3e38a23bf0a1abb2a0f51db27f3fc56a8195d6aca7e58760ebb5070c432e"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-1/reference.jpg",
+      "bytes": 45091,
+      "sha256": "22c3e9b88b1d05fd68d8fab45167fdd1ebd4a88cec34317bd7bf97c54d32fd3e"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-1/task3-1-realrobot.mp4",
+      "bytes": 507154,
+      "sha256": "be4e7b9155d3897d4f8ceb8c761c1e54a936a746c58124939bf2dae8c36a0049"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-2/flow_gen.mp4",
+      "bytes": 65141,
+      "sha256": "c965743ef81c6dff79010003544b492c76155600668636e083222e60f753f411"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-2/reference.jpg",
+      "bytes": 44709,
+      "sha256": "6c55c58e60dd7ea36efe450f49729b501db60afae06c07014a71b1e49688677b"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-2/task3-2-realrobot.mp4",
+      "bytes": 711863,
+      "sha256": "5809ec76f745904ac01ccda23b83913dea13c9c6e182898ffad7517630e53fc3"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-3/flow_gen.mp4",
+      "bytes": 67546,
+      "sha256": "c3a97d4a432090670ebd27ada6a2d0f7026a92e54664fc797c8f426165081842"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-3/reference.jpg",
+      "bytes": 52256,
+      "sha256": "5351950e4bd036a57631ebd0e47ad3130836f79c8d349591cb4251e65da2bd6d"
+    },
+    {
+      "path": "assets/robot/worldflow/task3-3/task3-3-realrobot.mp4",
+      "bytes": 708171,
+      "sha256": "a0bc2992590fdeade4b09d6829ca9bc8f47f3ea1583b829fe9076f336fffc13f"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-1/flow_gen.mp4",
+      "bytes": 59549,
+      "sha256": "958545d23b1b6158f579953283718b82121fd202f30377f0086de3f75fa03288"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-1/reference.jpg",
+      "bytes": 46574,
+      "sha256": "062ecd48a7749268933a326d9298ce4a5ba32c4b1adb1dccdc6f41280518281f"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-1/task4-1-realrobot.mp4",
+      "bytes": 396511,
+      "sha256": "33f03c3836eecf2fea90cf298cb4e0e0cec7ef636fcfc631050e4eec796913d2"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-2/flow_gen.mp4",
+      "bytes": 68065,
+      "sha256": "2640cfaf3b3727090a60a0f64278552e2e3b2736ce37b9a8e775ba25272ea230"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-2/reference.jpg",
+      "bytes": 49090,
+      "sha256": "8248fb0bb37446ca7c1ff6189abb0b5c93653f66690b98050e879d45773d246a"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-2/task4-2-realrobot.mp4",
+      "bytes": 537165,
+      "sha256": "ade83302c1c704dcccc9053911da135fc78928be0af3ffa346108cc16659d282"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-3/flow_gen.mp4",
+      "bytes": 56524,
+      "sha256": "7aa1349bf2e6ccdf98147174d583cdb99d280d22ec03f632f7af1e1b6f913d86"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-3/reference.jpg",
+      "bytes": 45996,
+      "sha256": "4ce6f30d2b832456bd3cf3908bc5b9550864e7516761119447380bab56d4ec13"
+    },
+    {
+      "path": "assets/robot/worldflow/task4-3/task4-3-realrobot.mp4",
+      "bytes": 390776,
+      "sha256": "653b1e61403022f830acc07c39e382fd1d9bdee8963a8ce86a355d7378d72baa"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-1/flow_gen.mp4",
+      "bytes": 60338,
+      "sha256": "9100aaa01e42cd9766be26c655746c9e1f7436ceee487f99ce312f7a824e401e"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-1/reference.jpg",
+      "bytes": 41530,
+      "sha256": "91d62e8766e2fa3b0871d17b4a2d3d359d72a995e08f842df530117fc3271543"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-1/task5-1-realrobot.mp4",
+      "bytes": 316439,
+      "sha256": "5c7f54239513b319ce4c23aa2d0d67ca5fafeccebf1caf85c0649bae7848a597"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-2/flow_gen.mp4",
+      "bytes": 58643,
+      "sha256": "934ef093ad22296f6e5e5f77a5878a6d89cd18cbf2e2fd5c2633d7ee8e980bba"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-2/reference.jpg",
+      "bytes": 36479,
+      "sha256": "8e0d2716093b3581bdd0317ec3564ee8efff621be891e80857cf49aae2ef3dae"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-2/task5-2-realrobot.mp4",
+      "bytes": 414909,
+      "sha256": "3238878b3395aa467887f2b44aeae3c157e45cadeffdb7c7f2c8533976762a61"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-3/flow_gen.mp4",
+      "bytes": 55989,
+      "sha256": "188711170b3ddc92b346f8ff1992a635fa4d0bf723496a2fbfc4b0bd84b6f9f6"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-3/reference.jpg",
+      "bytes": 36164,
+      "sha256": "35dc2c7844d56735eb5e5f263f982607b87057e2b33debd5bbcb922570c07526"
+    },
+    {
+      "path": "assets/robot/worldflow/task5-3/task5-3-realrobot.mp4",
+      "bytes": 543177,
+      "sha256": "a70bddfa94ea989a9a18b26fc4847cc5b8ce0e2cde6d1aaba5fb459490713e7b"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-1/flow_gen.mp4",
+      "bytes": 53928,
+      "sha256": "87eeadcb1b538e1bffd0ff3edbf704372e7bcb11fbd776320d094dcda8e47208"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-1/reference.jpg",
+      "bytes": 37961,
+      "sha256": "5b45aae46c93dc9224b7ea24181f40bcdb9d8aeda354890b89f49839a8f4f4a2"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-1/task6-1-realrobot.mp4",
+      "bytes": 481481,
+      "sha256": "fac87fa1f8d88421a6539f4d53e0dc5ee6e1e65bfad15730e23f2ddabcb3c8f6"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-2/flow_gen.mp4",
+      "bytes": 51982,
+      "sha256": "685c943ac37f7117227931b34d1d2aafb69bd1e3d6e6eb461468aa48356b7215"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-2/reference.jpg",
+      "bytes": 38698,
+      "sha256": "c4a74db0a87f1e8016f5687a894bd5a92fa267ce52845f9d3771e98cb2aa2606"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-2/task6-2-realrobot.mp4",
+      "bytes": 375143,
+      "sha256": "2613bb4b820da918e21d98d58ba70e74d7146ea87412b8d7ad8b8065ee145dfc"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-3/flow_gen.mp4",
+      "bytes": 52681,
+      "sha256": "d261f686f55c924eb8c3c538e52193de2e1fda3c9b360d2eff976886617aca1c"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-3/reference.jpg",
+      "bytes": 42032,
+      "sha256": "0794c4231b8507fb7f2a74562af344b7f8541a0a50108327de607a4f2a2f7d63"
+    },
+    {
+      "path": "assets/robot/worldflow/task6-3/task6-3-realrobot.mp4",
+      "bytes": 322048,
+      "sha256": "d660883e577767e93c7415765481f213fd50c0099df0d3b6c1c453b74eff71d1"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-1/flow_gen.mp4",
+      "bytes": 53868,
+      "sha256": "384bbdde776c4664970454546124e2bbc98392a3b569c48820065154229ae5b8"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-1/reference.jpg",
+      "bytes": 36632,
+      "sha256": "4c9d8a91249d001e4cae361d5c343fbdc4b436615d1956e66caa7277568baec6"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-1/task7-1-realrobot.mp4",
+      "bytes": 411531,
+      "sha256": "dea4f4eaffe345fb74736b7e774fbe5b1fd6f33628085d09d3e69b2bf38774b3"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-2/flow_gen.mp4",
+      "bytes": 53685,
+      "sha256": "e86823b544d54e2a7fa51f9531587f18189205ea446d71121329eb97c3f6edac"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-2/reference.jpg",
+      "bytes": 36321,
+      "sha256": "c3fc8b9d41e6afd41ed27a5465cf69942d4a93cc009b7d36ad63427b6eb6daa9"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-2/task7-2-realrobot.mp4",
+      "bytes": 338872,
+      "sha256": "5d453bc58139f44b51a869bfc1745ee6ec2d3e7810f480c2306572c9b202fc5d"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-3/flow_gen.mp4",
+      "bytes": 47738,
+      "sha256": "1a6d3b9e073d87fa81b623622176a6a11534047a8f2009def072a54808bf423f"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-3/reference.jpg",
+      "bytes": 36956,
+      "sha256": "746965627c6dc9f5be4ee490faffc53144da24ae79c962897ab266a449afd702"
+    },
+    {
+      "path": "assets/robot/worldflow/task7-3/task7-3-realrobot.mp4",
+      "bytes": 359104,
+      "sha256": "2b224616784c426a307e738788e1b78e4256f336ce88163bbf4dbad94e9d9e8d"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-1/flow_gen.mp4",
+      "bytes": 54403,
+      "sha256": "790ec666c183946f0c6ca36dcee580656eafd338e29f0dbfabb8b76041fffe45"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-1/reference.jpg",
+      "bytes": 42486,
+      "sha256": "7386f63aee71531d3794da68b01630b7471c172f42c86d1a26a46c88e6aca44f"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-1/task8-1-realrobot.mp4",
+      "bytes": 342852,
+      "sha256": "e19e0a7c90bba5bb5ff23962d3667edea0aa747096222b0c394fc0cede8d340d"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-2/flow_gen.mp4",
+      "bytes": 48960,
+      "sha256": "fb816320721271cc2256178b801e2a5ed7dd4ab9a225d707178d4bf8d6a3bb52"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-2/reference.jpg",
+      "bytes": 36833,
+      "sha256": "4548005d6ed52a8b1c0660975c767f4532665d92a42e97ce00fdd7ea791e9627"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-2/task8-2-realrobot.mp4",
+      "bytes": 454276,
+      "sha256": "97e902af3d68616bfe3ef73b882271048f07d1bd70653cc1c15dca4eb51ab4ba"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-3/flow_gen.mp4",
+      "bytes": 49973,
+      "sha256": "5b8ca88ebfe789bfc783940f4b65512f7dcba0b5bd9db4eab97d02e3bf204116"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-3/reference.jpg",
+      "bytes": 39541,
+      "sha256": "d528f044d6280fd71fe552b6c525f8051bbab5bf4c14bd323b4c91eb29a9913a"
+    },
+    {
+      "path": "assets/robot/worldflow/task8-3/task8-3-realrobot.mp4",
+      "bytes": 397931,
+      "sha256": "4d84452643868af48af7868877eb1dddd14ba2bfa08852798e1996056310ac7c"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-1/flow_gen.mp4",
+      "bytes": 46729,
+      "sha256": "2eb7cdc5cfae123991eaf4fc3daba8900364d2863cd2ed0d47212a12dc011848"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-1/reference.jpg",
+      "bytes": 33771,
+      "sha256": "41c5548852d1bc25f0f7eb3fd0bb2a3eb29000a0fe7e72a3dcfa1be1be133cb3"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-1/task9-1-realrobot.mp4",
+      "bytes": 472201,
+      "sha256": "5c6862e8c669f0375cf7fdbb4ca652cd34eaa207d6322ca4e4708a124aff4d23"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-2/flow_gen.mp4",
+      "bytes": 47419,
+      "sha256": "cecbe64cc3f92e6ccf71d8bc5fb24b0f2ddae0c21edb1011fae0a4175075d5ed"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-2/reference.jpg",
+      "bytes": 38339,
+      "sha256": "52a1c3d4181016e6ce326e27381bc1502c02d815e7eba1a0103dc61c25e3f0c3"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-2/task9-2-realrobot.mp4",
+      "bytes": 344729,
+      "sha256": "9487877f40833a994ed888a9d5a6289fc836f1db2afb0aa575a7e2a6eeeb656d"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-3/flow_gen.mp4",
+      "bytes": 55523,
+      "sha256": "644e22f8c88aa9e89e54ec6f43f6e659c61a766490f4691ca1d357dd8d5a457b"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-3/reference.jpg",
+      "bytes": 42738,
+      "sha256": "d0aac3a6f7c3f181ca0e4d03cdf67a153284c496ff3e0f9fcc5be390076f4a2a"
+    },
+    {
+      "path": "assets/robot/worldflow/task9-3/task9-3-realrobot.mp4",
+      "bytes": 1199668,
+      "sha256": "4e622601869363cf86cf12873bce5e3133e7e307fd3e4d400cada8ddc2547c2e"
+    },
+    {
       "path": "assets/robot-3d.js",
       "bytes": 6895,
       "sha256": "8d8c354863d56395130959fae7d72433f6e176c9e2ffa8be11541b82c0216929"
@@ -3154,919 +4054,689 @@
       "sha256": "7909d395c065d869d1b218b96cfdaa820d924341b79a02f3e1bd8307eb979db6"
     },
     {
-      "path": "assets/robot/mu0/task1-1/reference.jpg",
-      "bytes": 43998,
-      "sha256": "f8ed46e4a396c33d334414dbdee56e8ec9b7de0d1ed3575efbca82a4285a945e"
+      "path": "assets/simulation-comparison/comparison.css",
+      "bytes": 3824,
+      "sha256": "9c6e106c67ca1062b6d4a5d1e657d10f7b2a2cd19c17e1d814fb90b54be3fa09"
     },
     {
-      "path": "assets/robot/mu0/task1-1/task1-1-realrobot.mp4",
-      "bytes": 342170,
-      "sha256": "02a5b35f019bda1d24fed61a8a773c1806c43a2e3303224343fc1de1d917229c"
+      "path": "assets/simulation-comparison/default-e00006-00-mu0.jpg",
+      "bytes": 83207,
+      "sha256": "f1fea21cacef68149bb65b625e8cc1fcb70df6dba8f92e678723eb99c43276f0"
     },
     {
-      "path": "assets/robot/mu0/task1-2/reference.jpg",
-      "bytes": 42160,
-      "sha256": "2f4c8647de3a1dd8badecfb1f601cc12faf7137686ede694c2734c299bc04978"
+      "path": "assets/simulation-comparison/default-e00006-00-worldflow.jpg",
+      "bytes": 80255,
+      "sha256": "1bba31e95c5f0624908a0469846b9de09a1c9951a328eb967c97762591fe3816"
     },
     {
-      "path": "assets/robot/mu0/task1-2/task1-2-realrobot.mp4",
-      "bytes": 324220,
-      "sha256": "40e7abee0097f417e0bb31e624c9a835c85a7e193e47375c1d7c958e3173099c"
+      "path": "assets/simulation-comparison/default-e00015-00-mu0.jpg",
+      "bytes": 176044,
+      "sha256": "eff2f132b1ff78bc33063f04b5a20d6f4b63d6b1bc4e584f6b10adb1aa33ae41"
     },
     {
-      "path": "assets/robot/mu0/task1-3/reference.jpg",
-      "bytes": 40086,
-      "sha256": "091ff420c5b99a00fda65127cb39341a7892e799893c4a49241e1e8df5f000a4"
+      "path": "assets/simulation-comparison/default-e00015-00-worldflow.jpg",
+      "bytes": 170101,
+      "sha256": "193ac8c5ce397072bbfcd7cea81afdce66787cb55d7266545df0ec0924de60cc"
     },
     {
-      "path": "assets/robot/mu0/task1-3/task1-3-realrobot.mp4",
-      "bytes": 409295,
-      "sha256": "d3146d063131d11e749b2987de1d7b6e36fb05011b420f38864b59386ad0367d"
+      "path": "assets/simulation-comparison/default-e00045-00-mu0.jpg",
+      "bytes": 76552,
+      "sha256": "154eb155acce247bf4d2304aa3a4a89d1c9f8572cdac0b43e337e9f831f5f766"
     },
     {
-      "path": "assets/robot/mu0/task10-1/reference.jpg",
-      "bytes": 41055,
-      "sha256": "3762d079093e493168ff22f19586bba8e667d32097ee71bb079f0de3667f050a"
+      "path": "assets/simulation-comparison/default-e00045-00-worldflow.jpg",
+      "bytes": 74194,
+      "sha256": "85b36f5e7e8baf453da71f257651a72efef1f2f5544d3b5a700dc71cefec7ba4"
     },
     {
-      "path": "assets/robot/mu0/task10-1/task10-1-realrobot.mp4",
-      "bytes": 499155,
-      "sha256": "7bce688028ba6d437a622d2640f6ee9cdafe555255a7a317d26bfb576c6f21e6"
+      "path": "assets/simulation-comparison/default-e00060-00-mu0.jpg",
+      "bytes": 76247,
+      "sha256": "4d32f45fd0a703fac9b34a0c1ea63173befaab8270fd0cc28ea60be303e724b2"
     },
     {
-      "path": "assets/robot/mu0/task10-2/reference.jpg",
-      "bytes": 47488,
-      "sha256": "cac72274290adbfc107b50d391ff9011d95bd7a1d41379433648acb4e74677ca"
+      "path": "assets/simulation-comparison/default-e00060-00-worldflow.jpg",
+      "bytes": 77459,
+      "sha256": "230acbd7b19d0e3e52918f7fc478849580563d55ddfb30221232e2eb56208b6d"
     },
     {
-      "path": "assets/robot/mu0/task10-2/task10-2-realrobot.mp4",
-      "bytes": 256948,
-      "sha256": "bbf64b08c39c95fe7b7cbefa81f6c3f67dfd8af308d059008890ef9b09b2e193"
+      "path": "assets/simulation-comparison/default-e00090-00-mu0.jpg",
+      "bytes": 99905,
+      "sha256": "af4ee742a77636994cc72f390eaaac2bd9ceb38d09506fd4c38c26599ecec0b6"
     },
     {
-      "path": "assets/robot/mu0/task10-3/reference.jpg",
-      "bytes": 44851,
-      "sha256": "6e67ded7d53030ec3c77d324410e396989d6a8c005691d2e937780e3879dfb6c"
+      "path": "assets/simulation-comparison/default-e00090-00-worldflow.jpg",
+      "bytes": 96377,
+      "sha256": "96d1f664a984364e917773f976871c50103a22f8afd6d83cb06a29fcacd3f254"
     },
     {
-      "path": "assets/robot/mu0/task10-3/task10-3-realrobot.mp4",
-      "bytes": 339987,
-      "sha256": "fb0b386108ca866c8d641f57bdf810f8af9bcda05302b95a019233595e989e8a"
+      "path": "assets/simulation-comparison/default-e00400-00-mu0.jpg",
+      "bytes": 94912,
+      "sha256": "a94592451661ad09888da50becadc257bbddd5c99f0a7d4ae1b286642f1c2761"
     },
     {
-      "path": "assets/robot/mu0/task11-1/reference.jpg",
-      "bytes": 44709,
-      "sha256": "ab2be952bfc1a41339c9a4629e00cc788951e2a49f02af0f781631b4b6ce7f39"
+      "path": "assets/simulation-comparison/default-e00400-00-worldflow.jpg",
+      "bytes": 92594,
+      "sha256": "d5195850b265445c7043ed7a5cfdd3ffdf3e4f55f7e83f43fdfdf7129b8a8c5a"
     },
     {
-      "path": "assets/robot/mu0/task11-1/task11-1-realrobot.mp4",
-      "bytes": 282354,
-      "sha256": "23ba4d00bfb8bac94eea3534fc4062a84ad7aaf72ee9e7227a4fe7ce2523bcc5"
+      "path": "assets/simulation-comparison/default-e00421-00-mu0.jpg",
+      "bytes": 81773,
+      "sha256": "54cf90e6caa389ca96d5ce5eeffe7493f851126bb60a6fefbdbf1051a6778e32"
     },
     {
-      "path": "assets/robot/mu0/task11-2/reference.jpg",
-      "bytes": 38117,
-      "sha256": "bce7e408a66ab64eceadb1e3fffe86eb1e1c121b631f916702bdd2a999d53a5e"
+      "path": "assets/simulation-comparison/default-e00421-00-worldflow.jpg",
+      "bytes": 81848,
+      "sha256": "aa70c2df3f1eb5833a061e830185c4c94e2abb66f8a7176919d229b13dff8437"
     },
     {
-      "path": "assets/robot/mu0/task11-2/task11-2-realrobot.mp4",
-      "bytes": 328581,
-      "sha256": "c2ccbda0117375e110dd0a9295d5c46a7b2a2bd8aa30cb59779e535800560bfa"
+      "path": "assets/simulation-comparison/default-e00472-00-mu0.jpg",
+      "bytes": 81795,
+      "sha256": "5acb2c11c7c2629001d53013c00e1460daa4f4953e62569b8c3a0c0a1033555b"
     },
     {
-      "path": "assets/robot/mu0/task11-3/reference.jpg",
-      "bytes": 37655,
-      "sha256": "934dd50d66dc7c468454f68818ce32059228dce39ec1fb7373ab509dc2c9ada1"
+      "path": "assets/simulation-comparison/default-e00472-00-worldflow.jpg",
+      "bytes": 81002,
+      "sha256": "0de14e7c6d7e2fc2fcdd5b77b875d87c6f24b4960536f9a85951552944bf63f7"
     },
     {
-      "path": "assets/robot/mu0/task11-3/task11-3-realrobot.mp4",
-      "bytes": 348742,
-      "sha256": "67a82b1d0dfb5d6f0c788f376412a22ad1fb23f0023f35b49ecf8f5aa5bdad30"
+      "path": "assets/simulation-comparison/default-e00509-00-mu0.jpg",
+      "bytes": 80316,
+      "sha256": "046b2b5e8bdd1e29f127aa62b02a2555561cdda6193489c77c53d0ce5bb7eeb9"
     },
     {
-      "path": "assets/robot/mu0/task12-1/reference.jpg",
-      "bytes": 42846,
-      "sha256": "8b10be9ed46b35446708b6048d335e846eccee3558ee3440b2e03c37e2d7473d"
+      "path": "assets/simulation-comparison/default-e00509-00-worldflow.jpg",
+      "bytes": 77919,
+      "sha256": "cf7dd8a6afcbb6ea43ee31ec1a5e945a77f026463ef263e19aa341497fe9f81c"
     },
     {
-      "path": "assets/robot/mu0/task12-1/task12-1-realrobot.mp4",
-      "bytes": 310438,
-      "sha256": "3ae55e6ec5e6f012bcbdaf0c7411aea399a2548ea9c6e6e51929b0851884d3b7"
+      "path": "assets/simulation-comparison/default-e00961-00-mu0.jpg",
+      "bytes": 161004,
+      "sha256": "b08c2378c540f8ee180ef22f66c5626ed452444319f5e8b15f3cc106138139fe"
     },
     {
-      "path": "assets/robot/mu0/task12-2/reference.jpg",
-      "bytes": 43169,
-      "sha256": "952afd0247489b8e3f7634c69996da476f279b048d45be70e79f0ea7b3775689"
+      "path": "assets/simulation-comparison/default-e00961-00-worldflow.jpg",
+      "bytes": 166804,
+      "sha256": "e6a5aaa91ee55da957c1bcfd69bdbe4aff12484d3ecdc554a5271f944afb6c7c"
     },
     {
-      "path": "assets/robot/mu0/task12-2/task12-2-realrobot.mp4",
-      "bytes": 330623,
-      "sha256": "568695f23b54ea3d504d5355c3a1c7a83ac0e44edfe0eab34189ac1c678435d3"
+      "path": "assets/simulation-comparison/default-e00961-01-mu0.jpg",
+      "bytes": 166541,
+      "sha256": "accd7b28a5d90f5596ca6ba8028eb31189c707e82873fa471d58df5832f5884a"
     },
     {
-      "path": "assets/robot/mu0/task12-3/reference.jpg",
-      "bytes": 43844,
-      "sha256": "44575dce2b73e0a7743f2c692409d1d5109006a9a4e39a2e4f23b2bc61735a9e"
+      "path": "assets/simulation-comparison/default-e00961-01-worldflow.jpg",
+      "bytes": 161129,
+      "sha256": "114e2e5db323eded79855f64fc71ea0f33ea62d0d6053fa036770579fa86aa2c"
     },
     {
-      "path": "assets/robot/mu0/task12-3/task12-3-realrobot.mp4",
-      "bytes": 557024,
-      "sha256": "f86078d3b225d703c4e223bb53e9f8a1fea77c8c0f5fb979d7b4523fad0022b0"
+      "path": "assets/simulation-comparison/ranking.js",
+      "bytes": 803,
+      "sha256": "59c2a45a615cd63e600096a7dad161b4863c3450f17e878a213e6b723fa9aa22"
     },
     {
-      "path": "assets/robot/mu0/task2-1/reference.jpg",
-      "bytes": 39353,
-      "sha256": "04d64b1ef1117d0b17983211f127970380055b9a606c13197d78a7b426cbf0ef"
+      "path": "assets/simulation-comparison/simulation.js",
+      "bytes": 4922,
+      "sha256": "b8d89d9b12d19966bcc2eb370bdf6295a04b3d5033cc91bea8294a53c77b3df5"
     },
     {
-      "path": "assets/robot/mu0/task2-1/task2-1-realrobot.mp4",
-      "bytes": 628532,
-      "sha256": "69ac1197f86fea86768f5bbc32564274d805bd64268b01361a86346127c158a0"
+      "path": "assets/simulation-comparison/specific-e00016-00-mu0.jpg",
+      "bytes": 176434,
+      "sha256": "5c9cdbce81093bb7891453ae9e9c6632a26e297e6f0a979a8f6430cd636278ec"
     },
     {
-      "path": "assets/robot/mu0/task2-2/reference.jpg",
-      "bytes": 46210,
-      "sha256": "fc3d658b7ace4e7c7ac17e0d709419bcbbb2b8b7747f6ae98356dd867281f37c"
+      "path": "assets/simulation-comparison/specific-e00016-00-worldflow.jpg",
+      "bytes": 171186,
+      "sha256": "2205b507f65e9d0af0a62b234899d5835b98d07733aac9ae6aed57c36d2c4b68"
     },
     {
-      "path": "assets/robot/mu0/task2-2/task2-2-realrobot.mp4",
-      "bytes": 837240,
-      "sha256": "79f2bb8ff93649e3ce8cea6afbd3a9688cfb359b83189ffca08494538b3756c9"
+      "path": "assets/simulation-comparison/specific-e00029-00-mu0.jpg",
+      "bytes": 73247,
+      "sha256": "e3ed7b896b087b6e2fe25f08a9899451830cc3a9b07bc6112e832c49b5bb4dce"
     },
     {
-      "path": "assets/robot/mu0/task2-3/reference.jpg",
-      "bytes": 40816,
-      "sha256": "0818fd69b5b2c72ab55c08397b60b1c5f6a8920443538b71bb94caee1895cb88"
+      "path": "assets/simulation-comparison/specific-e00029-00-worldflow.jpg",
+      "bytes": 73173,
+      "sha256": "264e53954fa6712f62fdfb5efc33299e8fd9a7af4fa8a2c2af8c65a1f587be1d"
     },
     {
-      "path": "assets/robot/mu0/task2-3/task2-3-realrobot.mp4",
-      "bytes": 610970,
-      "sha256": "dea77b0bf410b3a5c33971190427e857f3f14958b0c3758bbfba369ee71a4b7d"
+      "path": "assets/simulation-comparison/specific-e00029-01-mu0.jpg",
+      "bytes": 76459,
+      "sha256": "5a6cbc9b2bbb6287e1a080bd7fb3bf2684fc14862c3b035dbe2720169515ec9e"
     },
     {
-      "path": "assets/robot/mu0/task3-1/reference.jpg",
-      "bytes": 41390,
-      "sha256": "16bba9b3a0fab4d6aec24b3758240de088b0d7b89da5ec06e059ee79e8c07252"
+      "path": "assets/simulation-comparison/specific-e00029-01-worldflow.jpg",
+      "bytes": 79345,
+      "sha256": "f2dbecfb93380d41a6865595c468ae4754e8a6c2966a7c0de0206439ca526af4"
     },
     {
-      "path": "assets/robot/mu0/task3-1/task3-1-realrobot.mp4",
-      "bytes": 268268,
-      "sha256": "1f43e6d32711365f25a69d997e18f8b879dc17d3a54ba47cc8d59c940504bf11"
+      "path": "assets/simulation-comparison/specific-e00064-00-mu0.jpg",
+      "bytes": 96111,
+      "sha256": "c686a581b46835b6a46da6b496737006f3ac2c24cc9ad9f82be7a5a10b60e070"
     },
     {
-      "path": "assets/robot/mu0/task3-2/reference.jpg",
-      "bytes": 51285,
-      "sha256": "091f10c16b3e1e179710833552ed8a4a6fbb733cca75c859ceea43788ec70c9a"
+      "path": "assets/simulation-comparison/specific-e00064-00-worldflow.jpg",
+      "bytes": 93159,
+      "sha256": "fe33aa8452d01697c3b7e2e253a8768f6e3c8f420ce124f93d8030d5881f520c"
     },
     {
-      "path": "assets/robot/mu0/task3-2/task3-2-realrobot.mp4",
-      "bytes": 537167,
-      "sha256": "c56747342c6da78f4ec509df93ccede6e8030551e7d0713b73f3f028e7729057"
+      "path": "assets/simulation-comparison/specific-e00110-00-mu0.jpg",
+      "bytes": 166481,
+      "sha256": "e33a34133de24db0b454f31c0d77de30178a4e349b629616bfacc5eecc101206"
     },
     {
-      "path": "assets/robot/mu0/task3-3/reference.jpg",
-      "bytes": 53756,
-      "sha256": "5373f2ec52d37e44b7e8bd8608e845d15d5ac418fca11d7449c6d1ae0ab2bd40"
+      "path": "assets/simulation-comparison/specific-e00110-00-worldflow.jpg",
+      "bytes": 161702,
+      "sha256": "0e001d2b04a659616d3012dd940f1e10c2f9b802e49fb555e17ff0908b83faa1"
     },
     {
-      "path": "assets/robot/mu0/task3-3/task3-3-realrobot.mp4",
-      "bytes": 274591,
-      "sha256": "6f670804b5e281aa06dab9b52fedfdbfc66723d2a0b4cab33d14bf1c2943365a"
+      "path": "assets/simulation-comparison/specific-e00345-00-mu0.jpg",
+      "bytes": 66885,
+      "sha256": "5a5e46ce1e667ecc5804d0d5725f9d8dc8f3f18f155dfd2ec33dba9b710c3e85"
     },
     {
-      "path": "assets/robot/mu0/task4-1/reference.jpg",
-      "bytes": 52492,
-      "sha256": "95ac39e2f681d2a309109d0d20f8b27798b799572d53080a66fbcc16d180c6f4"
+      "path": "assets/simulation-comparison/specific-e00345-00-worldflow.jpg",
+      "bytes": 67830,
+      "sha256": "2c6e1022221f733af6e9d0195210d5dd0141435c1b2937fc76ce0ed563e3865a"
     },
     {
-      "path": "assets/robot/mu0/task4-1/task4-1-realrobot.mp4",
-      "bytes": 395062,
-      "sha256": "e98ea29685920a68a2924e1c4a35d1145645c09daeab5c966cc5ba6bb98a8290"
+      "path": "assets/simulation-comparison/specific-e00345-01-mu0.jpg",
+      "bytes": 68455,
+      "sha256": "3dc139bd3032cd81bbbb9602c2a17212099885eecc789ea585291da89e84a174"
     },
     {
-      "path": "assets/robot/mu0/task4-2/reference.jpg",
-      "bytes": 52465,
-      "sha256": "a69cc159ebd294a7cfdab84569dfee743d3f2c391c439a396b14b72c63e3e5e5"
+      "path": "assets/simulation-comparison/specific-e00345-01-worldflow.jpg",
+      "bytes": 77736,
+      "sha256": "11a1623ad90729084ac6beaf5296bc09853e00a0dc50507ea760a16e860b0fbd"
     },
     {
-      "path": "assets/robot/mu0/task4-2/task4-2-realrobot.mp4",
-      "bytes": 416054,
-      "sha256": "d5e6d155a6e9cef3346dafa374d516adcc40e41e7c46cc7c1e262ce154df349c"
+      "path": "assets/simulation-comparison/specific-e00471-00-mu0.jpg",
+      "bytes": 81967,
+      "sha256": "f38e3e847376bc0fd37d0b9fe512852de145104eff223ba1a04908e3a23a16c0"
     },
     {
-      "path": "assets/robot/mu0/task4-3/reference.jpg",
-      "bytes": 50614,
-      "sha256": "7a35febc5c4bea780a446a35a5804c5643b247c1532f646b79845e81e1c4a593"
+      "path": "assets/simulation-comparison/specific-e00471-00-worldflow.jpg",
+      "bytes": 82036,
+      "sha256": "37e52680e065d5d06490775d8352c1f9c7555ea22b86d42a4ff95bfe35fb4f67"
     },
     {
-      "path": "assets/robot/mu0/task4-3/task4-3-realrobot.mp4",
-      "bytes": 417777,
-      "sha256": "6011e958faceeee23ea620aa221309b16b792e35cb1e4f497c479f7840027aa8"
+      "path": "assets/simulation-comparison/specific-e00504-00-mu0.jpg",
+      "bytes": 75639,
+      "sha256": "501080101b6a9ac9233e8feca6f0398987e52b91e9371e13e922ba54fe9b9c38"
     },
     {
-      "path": "assets/robot/mu0/task5-1/reference.jpg",
-      "bytes": 42620,
-      "sha256": "38e418b7789c9f19b04871e079784d0599072d25e8295f1d5a91d8777b5a73ee"
+      "path": "assets/simulation-comparison/specific-e00504-00-worldflow.jpg",
+      "bytes": 72628,
+      "sha256": "76fe0de8a5fdcd56a7776ff7d72f6899ea07ba3c21b795f79d52b8ec956f7ccf"
     },
     {
-      "path": "assets/robot/mu0/task5-1/task5-1-realrobot.mp4",
-      "bytes": 310392,
-      "sha256": "d1b370510e01ca26f51bac2f03d4bf4ac70d121cca08a9ffcbbdf1d7795a9a26"
+      "path": "assets/simulation-comparison/specific-e00540-00-mu0.jpg",
+      "bytes": 85310,
+      "sha256": "968a52fd22106c4d70d7406a9df733766203d688acf3df47f2f09358037f75c3"
     },
     {
-      "path": "assets/robot/mu0/task5-2/reference.jpg",
-      "bytes": 37018,
-      "sha256": "14268c26d5f602f3fc87a99eba889b721b1bbe4bac1037a72dc15816f07f5dd7"
+      "path": "assets/simulation-comparison/specific-e00540-00-worldflow.jpg",
+      "bytes": 88943,
+      "sha256": "189d65d59ae9e89b86f2d636203f1d799213c9bf2a8b04526c6f696739e9ed41"
     },
     {
-      "path": "assets/robot/mu0/task5-2/task5-2-realrobot.mp4",
-      "bytes": 368356,
-      "sha256": "6776b4d8c1fe33038f562374c3111cec4e1aacfcfb505fa1a464c8669c59aff6"
+      "path": "assets/simulation-comparison/specific-e00849-00-mu0.jpg",
+      "bytes": 85722,
+      "sha256": "bbe159ccb274c64d000806e45eadb70b9fb8bc47101fa8d3875ae6754ee2dfc9"
     },
     {
-      "path": "assets/robot/mu0/task5-3/reference.jpg",
-      "bytes": 39805,
-      "sha256": "b71a1f4130d1d2a03a3104eb18517594637d76e4b8101c2b18f1a3f17066b53c"
+      "path": "assets/simulation-comparison/specific-e00849-00-worldflow.jpg",
+      "bytes": 86602,
+      "sha256": "747d35afec424103c777f39267eb847236249ea148ee86296a146dc5fa5a834a"
     },
     {
-      "path": "assets/robot/mu0/task5-3/task5-3-realrobot.mp4",
-      "bytes": 394552,
-      "sha256": "43149573a8c7f2f447e9fc42f114016c7c54120519d0d1ecbd60fe153042e661"
+      "path": "assets/simulation-comparison/specific-e00849-01-mu0.jpg",
+      "bytes": 90084,
+      "sha256": "6e9f37330c2ed0133f2102d23a1f1ce8afd8177057592638c9d44f0093c72f6e"
     },
     {
-      "path": "assets/robot/mu0/task6-1/reference.jpg",
-      "bytes": 48881,
-      "sha256": "4e6c43fa8a9adca381a2d8e219eef5fc369528f725a71f681c490f26df297a08"
+      "path": "assets/simulation-comparison/specific-e00849-01-worldflow.jpg",
+      "bytes": 88080,
+      "sha256": "bfa81d18931e72741017102a2169a80a6879a16b8d8a20203b8a070904c60681"
     },
     {
-      "path": "assets/robot/mu0/task6-1/task6-1-realrobot.mp4",
-      "bytes": 463502,
-      "sha256": "596aac391404770385dddfab8db31c13607335342c5467288ea6a901183073d4"
+      "path": "assets/simulation-comparison/specific-e00981-00-mu0.jpg",
+      "bytes": 73753,
+      "sha256": "e238827b9a4100ec5ca9d3c30b658c5b8899d48ea07f813f12ee9430424b6583"
     },
     {
-      "path": "assets/robot/mu0/task6-2/reference.jpg",
-      "bytes": 45092,
-      "sha256": "22d0f0f7e361f55d2490e3878496032dccbd2f9909d2deccd1a23b960406b0f6"
+      "path": "assets/simulation-comparison/specific-e00981-00-worldflow.jpg",
+      "bytes": 77341,
+      "sha256": "3bca2e0530bee26933b7465cfd061d206a1436f89b6cba76dd0977f2e7ae6901"
     },
     {
-      "path": "assets/robot/mu0/task6-2/task6-2-realrobot.mp4",
-      "bytes": 349364,
-      "sha256": "40361f4dbb3f344d1751372804602706ec85f379158d0b8b0659a3ab517b11d7"
+      "path": "assets/simulation-comparison/specific-e00981-01-mu0.jpg",
+      "bytes": 77100,
+      "sha256": "dab0435665b35308e96559d5f39616ac1f441576f173cad92fde0fbc3fb144e1"
     },
     {
-      "path": "assets/robot/mu0/task6-3/reference.jpg",
-      "bytes": 41343,
-      "sha256": "1969bea85d80a3db3e23ec9f9cb6f74dab775d89afa37a78469f27968e26fa4d"
+      "path": "assets/simulation-comparison/specific-e00981-01-worldflow.jpg",
+      "bytes": 78045,
+      "sha256": "48598a6e05a64330cfe047fbbf3fd57ba5fa827ab17dd9c9c40a4b0e0b9374bc"
     },
     {
-      "path": "assets/robot/mu0/task6-3/task6-3-realrobot.mp4",
-      "bytes": 526563,
-      "sha256": "1e5659f20f7529c0a8e389c44eb9391bb6608c89bad7522e7ad8d2a7ad53805c"
+      "path": "assets/simulation-comparison/vague-e00008-00-mu0.jpg",
+      "bytes": 84064,
+      "sha256": "1651d2e95284ad79f08b61c1539947af8111fad45768f55cc98fc64d503eee4e"
     },
     {
-      "path": "assets/robot/mu0/task7-1/reference.jpg",
-      "bytes": 38281,
-      "sha256": "89f9d630c7f3a0f3e665f86164c89184deccccb49207afcb7e845dfa40ead155"
+      "path": "assets/simulation-comparison/vague-e00008-00-worldflow.jpg",
+      "bytes": 80796,
+      "sha256": "97b98f74a1f5cc16228b2be29a08fea06d26b70b224ad73e8a3913f45692296f"
     },
     {
-      "path": "assets/robot/mu0/task7-1/task7-1-realrobot.mp4",
-      "bytes": 437964,
-      "sha256": "8802c7932342d2120422684ea595b694ac2b7d15357023dbbfbe5e5bdbc059aa"
+      "path": "assets/simulation-comparison/vague-e00022-00-mu0.jpg",
+      "bytes": 99637,
+      "sha256": "f7d2500d59f28f01b59899d84837845fc57e7d52e9ac803da2d5149a1295ad21"
     },
     {
-      "path": "assets/robot/mu0/task7-2/reference.jpg",
-      "bytes": 42256,
-      "sha256": "121a504d729504c4244bc0ac2169db70ab47cf672bb039698db507c9ac6e78cb"
+      "path": "assets/simulation-comparison/vague-e00022-00-worldflow.jpg",
+      "bytes": 106581,
+      "sha256": "82f23de9adc9aca35c10c98e1a856578ee745c2af5a2a683a2ab91dfdc291b3f"
     },
     {
-      "path": "assets/robot/mu0/task7-2/task7-2-realrobot.mp4",
-      "bytes": 351293,
-      "sha256": "b89612b3cb61fc7f0e5c1acae1891ae4506060fc83d6fe53db1da68682a30b48"
+      "path": "assets/simulation-comparison/vague-e00074-00-mu0.jpg",
+      "bytes": 80492,
+      "sha256": "ef7e99ea31e06837f6d1ff7109bce9970ada52839785cfa58784b3799e8d992e"
     },
     {
-      "path": "assets/robot/mu0/task7-3/reference.jpg",
-      "bytes": 46455,
-      "sha256": "6c3f3e623258104489710499b49a6497febca86c755673379c90fa3930310905"
+      "path": "assets/simulation-comparison/vague-e00074-00-worldflow.jpg",
+      "bytes": 75631,
+      "sha256": "0bf115947056c240e0488b7d5aef717eed7e1f47af52c187428d03053e8c31c9"
     },
     {
-      "path": "assets/robot/mu0/task7-3/task7-3-realrobot.mp4",
-      "bytes": 501581,
-      "sha256": "a292497f58624339060d4671b91037a502d0b812bf9afae176f48ea761bfdbd7"
+      "path": "assets/simulation-comparison/vague-e00086-00-mu0.jpg",
+      "bytes": 86490,
+      "sha256": "2f3a5620fa6c322c80d996aa151aeaa41b92033540f8f0dc9e0176db3d9f08d4"
     },
     {
-      "path": "assets/robot/mu0/task8-1/reference.jpg",
-      "bytes": 47495,
-      "sha256": "6639d880fde3c2981db1589f376a5dc1d1f3658959d3e52425f87d5d3832083c"
+      "path": "assets/simulation-comparison/vague-e00086-00-worldflow.jpg",
+      "bytes": 86917,
+      "sha256": "4a93ddfb66922333c610c401e2656c35ccfb28765b87838275426790fa48f26f"
     },
     {
-      "path": "assets/robot/mu0/task8-1/task8-1-realrobot.mp4",
-      "bytes": 430575,
-      "sha256": "577f8c49b5a9ee536350078c71d4ebdb6787f54d21288b8e449f04b7a7a95664"
+      "path": "assets/simulation-comparison/vague-e00089-00-mu0.jpg",
+      "bytes": 86232,
+      "sha256": "4844bbeff7a6d9b7e9dd3aa2128adb64976215cd773290a4a781269880626090"
     },
     {
-      "path": "assets/robot/mu0/task8-2/reference.jpg",
-      "bytes": 48756,
-      "sha256": "d5c325914af4b76b2010c0775fafe2c1ca0ebf4ff17ce6d373035b9e36ab7f2e"
+      "path": "assets/simulation-comparison/vague-e00089-00-worldflow.jpg",
+      "bytes": 84859,
+      "sha256": "9ebc854a6ecc60e46315befe993a65cb7889af8816db4df9a8cdb5e48f652e8a"
     },
     {
-      "path": "assets/robot/mu0/task8-2/task8-2-realrobot.mp4",
-      "bytes": 364022,
-      "sha256": "42435ad5dba279fbad6eacce0ef8894a008498e32f32215ef3050befecff88d2"
+      "path": "assets/simulation-comparison/vague-e00092-00-mu0.jpg",
+      "bytes": 100351,
+      "sha256": "21752a31a4e5c8ca57f9ae9da5a69420abac1df2d82e78a3f15299aa25ba06fa"
     },
     {
-      "path": "assets/robot/mu0/task8-3/reference.jpg",
-      "bytes": 53732,
-      "sha256": "c43629a6668b36ee0f05ac055e216da0e830a324c87ca993da2ebd538945da13"
+      "path": "assets/simulation-comparison/vague-e00092-00-worldflow.jpg",
+      "bytes": 96826,
+      "sha256": "10d717e316a3889b7ee72675bfa13cd20170aaf878f651093303bf972dcf7a95"
     },
     {
-      "path": "assets/robot/mu0/task8-3/task8-3-realrobot.mp4",
-      "bytes": 480566,
-      "sha256": "95f9c8d6dadff28a244b13f4f8efc6c75061c13ec70e5b7e4444a9f913768611"
+      "path": "assets/simulation-comparison/vague-e00098-00-mu0.jpg",
+      "bytes": 83900,
+      "sha256": "67b1b48bbcbe85933d9cac1f351189319bcdd91204e10f3347288bc9ef158041"
     },
     {
-      "path": "assets/robot/mu0/task9-1/reference.jpg",
-      "bytes": 42641,
-      "sha256": "70ef3a3e6716cf7098e61bf48cb302b57890e2bc28d6f2e4c27063e15f73cc31"
+      "path": "assets/simulation-comparison/vague-e00098-00-worldflow.jpg",
+      "bytes": 85458,
+      "sha256": "46dbbec5de9cd1260f6f8237571b47b3021bdeb3af600fed1d4c31cd09b56914"
     },
     {
-      "path": "assets/robot/mu0/task9-1/task9-1-realrobot.mp4",
-      "bytes": 464694,
-      "sha256": "92c6a13eeb07dce5dff238835aa71bc2e3dd9f3b5c0dd0c2c18c852c8c115651"
+      "path": "assets/simulation-comparison/vague-e00098-01-mu0.jpg",
+      "bytes": 83351,
+      "sha256": "94b96be9778b33cfc252b8a338c3ed6011bda911598a529f3e4b9260d01be83b"
     },
     {
-      "path": "assets/robot/mu0/task9-2/reference.jpg",
-      "bytes": 36310,
-      "sha256": "522ce409f8a1cbe648b6012da3a83111d6ffaed8eae8fefd78e1e5c262057f1f"
+      "path": "assets/simulation-comparison/vague-e00098-01-worldflow.jpg",
+      "bytes": 83406,
+      "sha256": "5550f9028f76ecbbf102abb87ab80794e74d2897104e1bb710606d5d15a2a42c"
     },
     {
-      "path": "assets/robot/mu0/task9-2/task9-2-realrobot.mp4",
-      "bytes": 327857,
-      "sha256": "fd6a99f1699502222756535f6008420d1aea3358e2c59cc29cf44e88208483b7"
+      "path": "assets/simulation-comparison/vague-e00452-00-mu0.jpg",
+      "bytes": 174264,
+      "sha256": "c0f277a886bdb96898d2fecdb69a01211b246ff71225f592a1631f9320c79797"
     },
     {
-      "path": "assets/robot/mu0/task9-3/reference.jpg",
-      "bytes": 43023,
-      "sha256": "86e6b745034eba115787a4658833c0f69db07fe664d620e376df90634a58e66e"
+      "path": "assets/simulation-comparison/vague-e00452-00-worldflow.jpg",
+      "bytes": 164779,
+      "sha256": "677cb5cb0faf0e3bcb2d60716b36f5503c528dc8384b37e5db1f21aee50bc2a2"
     },
     {
-      "path": "assets/robot/mu0/task9-3/task9-3-realrobot.mp4",
-      "bytes": 668858,
-      "sha256": "258bf4bb70951dced79aea19f31ffe8eb71168f73a378c9ad78dda80335594b2"
+      "path": "assets/simulation-comparison/vague-e00474-00-mu0.jpg",
+      "bytes": 82768,
+      "sha256": "f45b91cf8cb85ae8d647a82152e44cc6300c2c7b5158102946db1058e6a946ac"
     },
     {
-      "path": "assets/robot/worldflow/task1-1/flow_gen.mp4",
-      "bytes": 61537,
-      "sha256": "e55eceb0040425e70124f26555768533a8f00223210c679f54269344a70795d2"
+      "path": "assets/simulation-comparison/vague-e00474-00-worldflow.jpg",
+      "bytes": 81694,
+      "sha256": "10d4c3671a6e68ca82fe8d983219fe4431ea1e8fb52550d5f871f65cf5dc638c"
     },
     {
-      "path": "assets/robot/worldflow/task1-1/reference.jpg",
-      "bytes": 43708,
-      "sha256": "9d417c04209d8ba9f45cffa4b1842423112683bb23eef63b076c00d9348b71d0"
+      "path": "assets/simulation-comparison/vague-e01182-00-mu0.jpg",
+      "bytes": 83476,
+      "sha256": "96ac120c0acd9617ccc1a5b9a8f009dd074ce747f201a439f2eba6f2dbd28362"
     },
     {
-      "path": "assets/robot/worldflow/task1-1/task1-1-realrobot.mp4",
-      "bytes": 511865,
-      "sha256": "65b65eb318bd1009d23e227aabc5f54fc46138e01d92f8a303495a08c7dd2164"
+      "path": "assets/simulation-comparison/vague-e01182-00-worldflow.jpg",
+      "bytes": 84065,
+      "sha256": "5fc20fc05e4f0566c61433ec667c67de3350c2e86e53078f8a9a735c3e8fff18"
     },
     {
-      "path": "assets/robot/worldflow/task1-2/flow_gen.mp4",
-      "bytes": 50565,
-      "sha256": "50cf9c14a47170be3a2ac8782de5427d76261e17fc9d71db3029576061e3f73d"
+      "path": "assets/simulation-rainbow/default-e00006-rainbow-v2.jpg",
+      "bytes": 85841,
+      "sha256": "f6fd4b024bd592344fb067b1f64561533fcee5cc44caefb01727a421fac04690"
     },
     {
-      "path": "assets/robot/worldflow/task1-2/reference.jpg",
-      "bytes": 35390,
-      "sha256": "8f4e338c806b02461b934dff2837a26e0488254ea7a243e345c7d1f31b5210dc"
+      "path": "assets/simulation-rainbow/default-e00006-rainbow-v2.mp4",
+      "bytes": 736989,
+      "sha256": "1bbfcab2e230c5812f3477427f8e3c99ec59140cfd668d613b767c6a4f852de2"
     },
     {
-      "path": "assets/robot/worldflow/task1-2/task1-2-realrobot.mp4",
-      "bytes": 493483,
-      "sha256": "f31298c1230aece07c40d230b45334aa99084844c40b1f5b62f3363a8f518bd5"
+      "path": "assets/simulation-rainbow/default-e00015-rainbow-v2.jpg",
+      "bytes": 86080,
+      "sha256": "096f4d80e4e30d5f64f90b689488b9f321618d31606a81879d78d464beae2ee7"
     },
     {
-      "path": "assets/robot/worldflow/task1-3/flow_gen.mp4",
-      "bytes": 56237,
-      "sha256": "24f9971009f67f99a77124d53597fdb7cf3726b6ea8e3796b48ff0a14e457df5"
+      "path": "assets/simulation-rainbow/default-e00015-rainbow-v2.mp4",
+      "bytes": 1211189,
+      "sha256": "714b304ec7be5e0fc2a2d69d099ed695de96ba07beaa2a4523efdc59b1586038"
     },
     {
-      "path": "assets/robot/worldflow/task1-3/reference.jpg",
-      "bytes": 40890,
-      "sha256": "8b9d2420fbafafa1ac3c8c9815d2d117640812439b3de1dac633b53839ca2887"
+      "path": "assets/simulation-rainbow/default-e00045-rainbow-v2.jpg",
+      "bytes": 79360,
+      "sha256": "2cfd41170302833ec5aecaac9c78fe582e4ced1749c32e3cbee3edeba1d18110"
     },
     {
-      "path": "assets/robot/worldflow/task1-3/task1-3-realrobot.mp4",
-      "bytes": 538343,
-      "sha256": "bbfff830bb19cfc9ae73325566919272547e3de8e76705ec3198317554b3ba17"
+      "path": "assets/simulation-rainbow/default-e00045-rainbow-v2.mp4",
+      "bytes": 755466,
+      "sha256": "16166b7602ff1833c8609fc456e637b83de809a345c1c2082e5203dc7189e91e"
     },
     {
-      "path": "assets/robot/worldflow/task10-1/flow_gen.mp4",
-      "bytes": 61356,
-      "sha256": "706f767a4673962337322328b1015f44be769dce111ce91ced5e464af10f3c2b"
+      "path": "assets/simulation-rainbow/default-e00060-rainbow-v2.jpg",
+      "bytes": 85483,
+      "sha256": "69204f9d75f9e3b13978b40f26415d6c08cb9241aca9edfeae7c50b62804f263"
     },
     {
-      "path": "assets/robot/worldflow/task10-1/reference.jpg",
-      "bytes": 39990,
-      "sha256": "fd383b242650e45f529d56dbb8cf842641ee3b1abe6263679695ee9e637080a0"
+      "path": "assets/simulation-rainbow/default-e00060-rainbow-v2.mp4",
+      "bytes": 767751,
+      "sha256": "de099db70eca8fa953ff4f9345b76fea49525368508e417784e519733010d797"
     },
     {
-      "path": "assets/robot/worldflow/task10-1/task10-1-realrobot.mp4",
-      "bytes": 396222,
-      "sha256": "897f1beec08fcca87efbbe41e4ff713eac1546191ccc36b3467b74fa6d3bbec8"
+      "path": "assets/simulation-rainbow/default-e00090-rainbow-v2.jpg",
+      "bytes": 102039,
+      "sha256": "3c961855711b1686049682a5646ae5ca8db59b140e385764ba4c7d21f576bf10"
     },
     {
-      "path": "assets/robot/worldflow/task10-2/flow_gen.mp4",
-      "bytes": 57311,
-      "sha256": "a6778c521d3e277d16b462ecd4faa125ae5d4473d5afd08a2e00f28ab57bf1d2"
+      "path": "assets/simulation-rainbow/default-e00090-rainbow-v2.mp4",
+      "bytes": 789410,
+      "sha256": "ef1b7347d40e20096d3b9b50fba2673926f4105ff30bd16b74716602290b55ad"
     },
     {
-      "path": "assets/robot/worldflow/task10-2/reference.jpg",
-      "bytes": 41700,
-      "sha256": "92abd27bbb99fd7041f37538840605c679ca215ed550b2cd2327beb03d4774c2"
+      "path": "assets/simulation-rainbow/default-e00400-rainbow-v2.jpg",
+      "bytes": 97954,
+      "sha256": "6d0915e875cac9ae42e83ccb7dba50d7b7a59b0d2a35c0cff28d3f9b0fa2dc74"
     },
     {
-      "path": "assets/robot/worldflow/task10-2/task10-2-realrobot.mp4",
-      "bytes": 516566,
-      "sha256": "0569ad348262cd732037d2b31f82e33f0f8cb9bd06285dfb273a78600061a576"
+      "path": "assets/simulation-rainbow/default-e00400-rainbow-v2.mp4",
+      "bytes": 492919,
+      "sha256": "e4d4c3acdc63c66f780b6e096ae8c29075f1047f110479382188e1a6d33db88c"
     },
     {
-      "path": "assets/robot/worldflow/task10-3/flow_gen.mp4",
-      "bytes": 67107,
-      "sha256": "590b35d54523be4f108505717e711194ea402de33d6a24ecc61574ed911eb1b1"
+      "path": "assets/simulation-rainbow/default-e00421-rainbow-v2.jpg",
+      "bytes": 76421,
+      "sha256": "d2d12e6e0bc9f7655a662a4f30a9befda5d18974a5882e00071433d23646d841"
     },
     {
-      "path": "assets/robot/worldflow/task10-3/reference.jpg",
-      "bytes": 41122,
-      "sha256": "61d40aeec2addf776be0af274fb320a9003cf5fed56fea549c4135483c6f753d"
+      "path": "assets/simulation-rainbow/default-e00421-rainbow-v2.mp4",
+      "bytes": 1026614,
+      "sha256": "c41d42737176078cc90d88f7e669cc4aa9dbdffebb31e3ad255c951846247a75"
     },
     {
-      "path": "assets/robot/worldflow/task10-3/task10-3-realrobot.mp4",
-      "bytes": 427260,
-      "sha256": "4e418a2535927f3ee6ad9fac43fe26720a31297fa01ba96f5bce193efec7c44c"
+      "path": "assets/simulation-rainbow/default-e00472-rainbow-v2.jpg",
+      "bytes": 64511,
+      "sha256": "25756b35f6f42c424374ac8d84372ab9451bb29b060e9acb939aa11d407a4e0e"
     },
     {
-      "path": "assets/robot/worldflow/task11-1/flow_gen.mp4",
-      "bytes": 63631,
-      "sha256": "83153a29a08750febbe35002b647ea3df54b3417dc5c0da0e1dd163d6fca29e4"
+      "path": "assets/simulation-rainbow/default-e00472-rainbow-v2.mp4",
+      "bytes": 434525,
+      "sha256": "c57d4572afcfb9a3cbdfcb7ae1a0292e198e83648ae2adf889df76a0ff3cdfbb"
     },
     {
-      "path": "assets/robot/worldflow/task11-1/reference.jpg",
-      "bytes": 46243,
-      "sha256": "a4440def03fe705429556460ee6de55b491d1886cf33190a69c890444d7d852d"
+      "path": "assets/simulation-rainbow/default-e00509-rainbow-v2.jpg",
+      "bytes": 78801,
+      "sha256": "56fd53d953f3f17b51e00336a71bd632317c25806e8bd61b7a49f852835a59dd"
     },
     {
-      "path": "assets/robot/worldflow/task11-1/task11-1-realrobot.mp4",
-      "bytes": 429749,
-      "sha256": "87279a10933a8993406ea9c0847fda80695f14353864c6fad524954b7c1bb135"
+      "path": "assets/simulation-rainbow/default-e00509-rainbow-v2.mp4",
+      "bytes": 770869,
+      "sha256": "19ced49afb19d3e141e0aeaebfef3f62c4cda38cca22bb7e6181b72290f0e5a1"
     },
     {
-      "path": "assets/robot/worldflow/task11-2/flow_gen.mp4",
-      "bytes": 51999,
-      "sha256": "79792e28629ed6409565f4621b58ab9920fc067748c20eeb2f12f20f36c806da"
+      "path": "assets/simulation-rainbow/default-e00961-rainbow-v2.jpg",
+      "bytes": 83968,
+      "sha256": "ff5906a3cea612a9e90a7117e12b8e223d4d2105c715f26084cb40d15ea92b6e"
     },
     {
-      "path": "assets/robot/worldflow/task11-2/reference.jpg",
-      "bytes": 39780,
-      "sha256": "d5092f449251c71d4889d4ac9a5d53ab78feda37443e9793e39e7f506f46673c"
+      "path": "assets/simulation-rainbow/default-e00961-rainbow-v2.mp4",
+      "bytes": 1604377,
+      "sha256": "30769df89e2b9cbbf4a89e6ba3f56e1d85ec46802f6390d227254a7a1a9f63bd"
     },
     {
-      "path": "assets/robot/worldflow/task11-2/task11-2-realrobot.mp4",
-      "bytes": 555762,
-      "sha256": "0c4f033e4c9b52d6d25f85cc3be61a94fbc966a5461497b5d1710d3e48b0ef31"
+      "path": "assets/simulation-rainbow/specific-e00016-rainbow-v2.jpg",
+      "bytes": 86651,
+      "sha256": "d1d6a803c753c5316b3ea908d560fed137ff3842a52c0973f929846d1b3005a9"
     },
     {
-      "path": "assets/robot/worldflow/task11-3/flow_gen.mp4",
-      "bytes": 62585,
-      "sha256": "25ae601b3604f757cb6f633eb6fff81d09c08630ab3fc0d926621cbefacc08a8"
+      "path": "assets/simulation-rainbow/specific-e00016-rainbow-v2.mp4",
+      "bytes": 1239219,
+      "sha256": "2cc1b93a2a698a3620a31e39246b64576f0fb62be61868a969d4ae0ba76fc80d"
     },
     {
-      "path": "assets/robot/worldflow/task11-3/reference.jpg",
-      "bytes": 37291,
-      "sha256": "0e9598f388d2e6f292dd4d92b8fe8dc1a46ba4d4fba3dad3f69519bdc04ea1e4"
+      "path": "assets/simulation-rainbow/specific-e00029-rainbow-v2.jpg",
+      "bytes": 79449,
+      "sha256": "db800fc22d78f2ebd4b2e9bf4b3bd6527664b84761cd7e53da5606a7cbc6f098"
     },
     {
-      "path": "assets/robot/worldflow/task11-3/task11-3-realrobot.mp4",
-      "bytes": 483766,
-      "sha256": "08a039690bb29ef7b4c212d915b809e3a35b88a74dbc16f64d415b75e7f6d319"
+      "path": "assets/simulation-rainbow/specific-e00029-rainbow-v2.mp4",
+      "bytes": 1050685,
+      "sha256": "16f3f5b5545c79daa4ee4b08cf5527cf86c164b34b077cb79c74096f9fb86bc2"
     },
     {
-      "path": "assets/robot/worldflow/task12-1/flow_gen.mp4",
-      "bytes": 57145,
-      "sha256": "ed582e0d8a1cfa9c8ddb3d5589db3db88b34b2c948176ba7e0ea665e90f412d7"
+      "path": "assets/simulation-rainbow/specific-e00064-rainbow-v2.jpg",
+      "bytes": 87814,
+      "sha256": "b57bcb7102660ec3e66a115e0205e5fb235ebf94ce43916918485b556381300e"
     },
     {
-      "path": "assets/robot/worldflow/task12-1/reference.jpg",
-      "bytes": 41158,
-      "sha256": "4f63f84530a8f2fe578f357bec05d1d2b21bb26fc75531c2d4566a6a382bf686"
+      "path": "assets/simulation-rainbow/specific-e00064-rainbow-v2.mp4",
+      "bytes": 733312,
+      "sha256": "4599d9d1e261d9c3987674426cbaad1658dffd29a1c9401695d6d879a34e881f"
     },
     {
-      "path": "assets/robot/worldflow/task12-1/task12-1-realrobot.mp4",
-      "bytes": 433673,
-      "sha256": "c90960d777903aeecec60ed5e43cc55ffe72aa1767e474535361a5df487242a4"
+      "path": "assets/simulation-rainbow/specific-e00110-rainbow-v2.jpg",
+      "bytes": 84875,
+      "sha256": "f3e063d9d21203da2f0ee79553a294a1ab0d1605e6fe144265da60d6aab9b405"
     },
     {
-      "path": "assets/robot/worldflow/task12-2/flow_gen.mp4",
-      "bytes": 63047,
-      "sha256": "9837d4d4d7b30e5340e787ca75d517c20ff1e8a0acb219d1a4493fff4534e615"
+      "path": "assets/simulation-rainbow/specific-e00110-rainbow-v2.mp4",
+      "bytes": 703627,
+      "sha256": "1233cf7109d3c4a039a26f270ddfa7960c6f44d27ab69457c4b9e0ef8a962930"
     },
     {
-      "path": "assets/robot/worldflow/task12-2/reference.jpg",
-      "bytes": 43943,
-      "sha256": "7b2221cde9cbe86b0cce5df9b8b66ff971e0efd8ba7b916261efc44798f6f6bb"
+      "path": "assets/simulation-rainbow/specific-e00345-rainbow-v2.jpg",
+      "bytes": 75196,
+      "sha256": "e26d95974618fe59520854fcbf17541e9c16870f3ebbce8f24a12e880bf410bd"
     },
     {
-      "path": "assets/robot/worldflow/task12-2/task12-2-realrobot.mp4",
-      "bytes": 512005,
-      "sha256": "627a86e1d807e5216edff997be8de194968b564e93671c27e21720d310db41af"
+      "path": "assets/simulation-rainbow/specific-e00345-rainbow-v2.mp4",
+      "bytes": 2215792,
+      "sha256": "5456f416680239201c88f5bc7be5104783fbd77b7a364c25eb7f6015854393f6"
     },
     {
-      "path": "assets/robot/worldflow/task12-3/flow_gen.mp4",
-      "bytes": 57710,
-      "sha256": "4ff075668c93ec977dfb06e3484faa61d594275174124c00e7d51b2e03c8f535"
+      "path": "assets/simulation-rainbow/specific-e00471-rainbow-v2.jpg",
+      "bytes": 72951,
+      "sha256": "0bb79301d04195c5a178fbe865008c524eddf2d8b6f635b34c5b5c71833cc8a0"
     },
     {
-      "path": "assets/robot/worldflow/task12-3/reference.jpg",
-      "bytes": 49272,
-      "sha256": "fbff7d6622be177e4be1d6b4f42243dced1027e6219bf4fbac48fc3588793995"
+      "path": "assets/simulation-rainbow/specific-e00471-rainbow-v2.mp4",
+      "bytes": 487659,
+      "sha256": "9971bd99b97a5297b231dd67c2f273f93027b97bb1fadd042e599115493eda07"
     },
     {
-      "path": "assets/robot/worldflow/task12-3/task12-3-realrobot.mp4",
-      "bytes": 328139,
-      "sha256": "4b925338094d3ba96230ac6fffd5b0526ef403295189b1196d5d29f98527f071"
+      "path": "assets/simulation-rainbow/specific-e00504-rainbow-v2.jpg",
+      "bytes": 64559,
+      "sha256": "e9511c38ac2de894f09fae6ee832b6dab3e06df2e10329a6f6f0127675934cf6"
     },
     {
-      "path": "assets/robot/worldflow/task2-1/flow_gen.mp4",
-      "bytes": 65919,
-      "sha256": "1e54b01743d68421c26b59a52362c4800654ea953ffe6628e0f432590a27d8e8"
+      "path": "assets/simulation-rainbow/specific-e00504-rainbow-v2.mp4",
+      "bytes": 1386579,
+      "sha256": "ff309f12e6e10b05eea8ba0580cc9b17c35d36e7a2767b600084823ed3db8a70"
     },
     {
-      "path": "assets/robot/worldflow/task2-1/reference.jpg",
-      "bytes": 48569,
-      "sha256": "1e9abad06639df8d17dfe125a5184e6c8997f00b344fceb3f9b10e3cfa878ca2"
+      "path": "assets/simulation-rainbow/specific-e00540-rainbow-v2.jpg",
+      "bytes": 95275,
+      "sha256": "2dcd9694590cc0f9b4ffbcc81e2706d0c66a65c33ef3aa96df7905c2abb7984a"
     },
     {
-      "path": "assets/robot/worldflow/task2-1/task2-1-realrobot.mp4",
-      "bytes": 454137,
-      "sha256": "23654bfe14665de241ebe1a11548dc476d35edf26f8a4eec02f6ab1bb29cbd3e"
+      "path": "assets/simulation-rainbow/specific-e00540-rainbow-v2.mp4",
+      "bytes": 557780,
+      "sha256": "630b9478c1e8c5429b67ba932fbd8fcd7b22c476dfad55d401a5259a5b3e3ec4"
     },
     {
-      "path": "assets/robot/worldflow/task2-2/flow_gen.mp4",
-      "bytes": 63590,
-      "sha256": "fc23c99d5da3797b56b4c488f8ce51eaf979934b21aadf1fa34c5db733ceea36"
+      "path": "assets/simulation-rainbow/specific-e00849-rainbow-v2.jpg",
+      "bytes": 90067,
+      "sha256": "8eead8e0d2f876439d77d6c5117b785b6bb3cd04f544313926ac6749c36fce30"
     },
     {
-      "path": "assets/robot/worldflow/task2-2/reference.jpg",
-      "bytes": 46058,
-      "sha256": "75c14cf9f02c0b122ac8e479a743924805c31dc81779e3486e5df2e4884f6760"
+      "path": "assets/simulation-rainbow/specific-e00849-rainbow-v2.mp4",
+      "bytes": 1419737,
+      "sha256": "9a27b97340ff217b4f0af971cd8b12436d04f4c46a74bfd6112cbcb01fb6b1c4"
     },
     {
-      "path": "assets/robot/worldflow/task2-2/task2-2-realrobot.mp4",
-      "bytes": 617132,
-      "sha256": "fc175de07751d064fdcb964620f6d9e193c78c457102527ea333c6b26ef62dfc"
+      "path": "assets/simulation-rainbow/specific-e00981-rainbow-v2.jpg",
+      "bytes": 58876,
+      "sha256": "979c56f9c2430d7d99df558c4aa15b0540a3ad17cf2cc5f94a16450d1e0ef03d"
     },
     {
-      "path": "assets/robot/worldflow/task2-3/flow_gen.mp4",
-      "bytes": 62332,
-      "sha256": "522e3c2ccf532fd57a89e63da412a3ef5d441b84d20dd7230f351f25cebb7805"
+      "path": "assets/simulation-rainbow/specific-e00981-rainbow-v2.mp4",
+      "bytes": 1645066,
+      "sha256": "4dccfa20734b6c4110d2a00375e713d680b955efab75a45011edf760cf83a52e"
     },
     {
-      "path": "assets/robot/worldflow/task2-3/reference.jpg",
-      "bytes": 41508,
-      "sha256": "a28fcf731b56dc7d62ab28d7c63c2446bbb31805c53787b890778c54aba81754"
+      "path": "assets/simulation-rainbow/vague-e00008-rainbow-v2.jpg",
+      "bytes": 88086,
+      "sha256": "773e46623f25bd97d5fd6e09ac8bc726863772f2c9ecd04cb6c76df04d0154a4"
     },
     {
-      "path": "assets/robot/worldflow/task2-3/task2-3-realrobot.mp4",
-      "bytes": 473442,
-      "sha256": "eb0d255e8993091ce9b84be38d5b88ae0392b98a3bdf4d7c3e927f5adb6a5d54"
+      "path": "assets/simulation-rainbow/vague-e00008-rainbow-v2.mp4",
+      "bytes": 667883,
+      "sha256": "326eaa6501a5956d9f4eeed869304530baf96d29d9d8013793328ea5ea5bc311"
     },
     {
-      "path": "assets/robot/worldflow/task3-1/flow_gen.mp4",
-      "bytes": 59646,
-      "sha256": "d1ec3e38a23bf0a1abb2a0f51db27f3fc56a8195d6aca7e58760ebb5070c432e"
+      "path": "assets/simulation-rainbow/vague-e00022-rainbow-v2.jpg",
+      "bytes": 97040,
+      "sha256": "ef8ade059f8ae77ef97c96a1823c0c95387f61f60e6f3014b88eddbfdc3d15b9"
     },
     {
-      "path": "assets/robot/worldflow/task3-1/reference.jpg",
-      "bytes": 45091,
-      "sha256": "22c3e9b88b1d05fd68d8fab45167fdd1ebd4a88cec34317bd7bf97c54d32fd3e"
+      "path": "assets/simulation-rainbow/vague-e00022-rainbow-v2.mp4",
+      "bytes": 1626509,
+      "sha256": "fcc86b320a75c5f838581a90f9dd06522b51b0cbb2537c7cbd8f60c867d88685"
     },
     {
-      "path": "assets/robot/worldflow/task3-1/task3-1-realrobot.mp4",
-      "bytes": 507154,
-      "sha256": "be4e7b9155d3897d4f8ceb8c761c1e54a936a746c58124939bf2dae8c36a0049"
+      "path": "assets/simulation-rainbow/vague-e00074-rainbow-v2.jpg",
+      "bytes": 81216,
+      "sha256": "d0923c6b81d29c507b2ce7abf676cf3405bad84c6876379f3aa0940a847d0043"
     },
     {
-      "path": "assets/robot/worldflow/task3-2/flow_gen.mp4",
-      "bytes": 65141,
-      "sha256": "c965743ef81c6dff79010003544b492c76155600668636e083222e60f753f411"
+      "path": "assets/simulation-rainbow/vague-e00074-rainbow-v2.mp4",
+      "bytes": 1128277,
+      "sha256": "093aa55c381687a33f47c8076b283bf12aa3c4f7785dc5ef7ea82236f41ebf29"
     },
     {
-      "path": "assets/robot/worldflow/task3-2/reference.jpg",
-      "bytes": 44709,
-      "sha256": "6c55c58e60dd7ea36efe450f49729b501db60afae06c07014a71b1e49688677b"
+      "path": "assets/simulation-rainbow/vague-e00086-rainbow-v2.jpg",
+      "bytes": 95588,
+      "sha256": "ad310b92b1126e905dd12cac639654ba21feb4be083be23b5f44f0833cd2cc07"
     },
     {
-      "path": "assets/robot/worldflow/task3-2/task3-2-realrobot.mp4",
-      "bytes": 711863,
-      "sha256": "5809ec76f745904ac01ccda23b83913dea13c9c6e182898ffad7517630e53fc3"
+      "path": "assets/simulation-rainbow/vague-e00086-rainbow-v2.mp4",
+      "bytes": 870503,
+      "sha256": "28e7eb0e3d0d608b0395b4095876ddbbb29df7821c71636852ed9c2f234d9670"
     },
     {
-      "path": "assets/robot/worldflow/task3-3/flow_gen.mp4",
-      "bytes": 67546,
-      "sha256": "c3a97d4a432090670ebd27ada6a2d0f7026a92e54664fc797c8f426165081842"
+      "path": "assets/simulation-rainbow/vague-e00089-rainbow-v2.jpg",
+      "bytes": 94840,
+      "sha256": "924058f632e69731060d66fc0d5d467d94281087af6eaf4260019bc45bd71b0d"
     },
     {
-      "path": "assets/robot/worldflow/task3-3/reference.jpg",
-      "bytes": 52256,
-      "sha256": "5351950e4bd036a57631ebd0e47ad3130836f79c8d349591cb4251e65da2bd6d"
+      "path": "assets/simulation-rainbow/vague-e00089-rainbow-v2.mp4",
+      "bytes": 775846,
+      "sha256": "2d1b321bfa6fbb1ca751e981d1f83122d830afd169632ddef73d7e3aed3da7c1"
     },
     {
-      "path": "assets/robot/worldflow/task3-3/task3-3-realrobot.mp4",
-      "bytes": 708171,
-      "sha256": "a0bc2992590fdeade4b09d6829ca9bc8f47f3ea1583b829fe9076f336fffc13f"
+      "path": "assets/simulation-rainbow/vague-e00092-rainbow-v2.jpg",
+      "bytes": 103502,
+      "sha256": "56fb49e79d88762bbabea39b4aa906081d21af58b78377159effc666a16af45c"
     },
     {
-      "path": "assets/robot/worldflow/task4-1/flow_gen.mp4",
-      "bytes": 59549,
-      "sha256": "958545d23b1b6158f579953283718b82121fd202f30377f0086de3f75fa03288"
+      "path": "assets/simulation-rainbow/vague-e00092-rainbow-v2.mp4",
+      "bytes": 704359,
+      "sha256": "b0a1219d6e1cad6eb5ae53c5311db6603fb18f6fc89301db99637406cb513dd6"
     },
     {
-      "path": "assets/robot/worldflow/task4-1/reference.jpg",
-      "bytes": 46574,
-      "sha256": "062ecd48a7749268933a326d9298ce4a5ba32c4b1adb1dccdc6f41280518281f"
+      "path": "assets/simulation-rainbow/vague-e00098-rainbow-v2.jpg",
+      "bytes": 90264,
+      "sha256": "c30e128f86259ef6a5824c8e984904711e4c17383ff76a43819ffdf98424a6a1"
     },
     {
-      "path": "assets/robot/worldflow/task4-1/task4-1-realrobot.mp4",
-      "bytes": 396511,
-      "sha256": "33f03c3836eecf2fea90cf298cb4e0e0cec7ef636fcfc631050e4eec796913d2"
+      "path": "assets/simulation-rainbow/vague-e00098-rainbow-v2.mp4",
+      "bytes": 2298463,
+      "sha256": "2a588a597c40b3bef86fcf3acc4d7cf72e6993d2a42107fe25e36436207a8605"
     },
     {
-      "path": "assets/robot/worldflow/task4-2/flow_gen.mp4",
-      "bytes": 68065,
-      "sha256": "2640cfaf3b3727090a60a0f64278552e2e3b2736ce37b9a8e775ba25272ea230"
+      "path": "assets/simulation-rainbow/vague-e00452-rainbow-v2.jpg",
+      "bytes": 77672,
+      "sha256": "86255732febb4137864413b2ccd0a7ee9c32039c4741cb29a95fa7a56f940e5b"
     },
     {
-      "path": "assets/robot/worldflow/task4-2/reference.jpg",
-      "bytes": 49090,
-      "sha256": "8248fb0bb37446ca7c1ff6189abb0b5c93653f66690b98050e879d45773d246a"
+      "path": "assets/simulation-rainbow/vague-e00452-rainbow-v2.mp4",
+      "bytes": 418959,
+      "sha256": "77324c64cb0663fa27152800b092b2eb2000ae2f3516fd353e363b8ceb0208cf"
     },
     {
-      "path": "assets/robot/worldflow/task4-2/task4-2-realrobot.mp4",
-      "bytes": 537165,
-      "sha256": "ade83302c1c704dcccc9053911da135fc78928be0af3ffa346108cc16659d282"
+      "path": "assets/simulation-rainbow/vague-e00474-rainbow-v2.jpg",
+      "bytes": 72102,
+      "sha256": "de9fa24d9d001e3c83b7a1662b4c1966081b02f56636d112ff9c223b56143332"
     },
     {
-      "path": "assets/robot/worldflow/task4-3/flow_gen.mp4",
-      "bytes": 56524,
-      "sha256": "7aa1349bf2e6ccdf98147174d583cdb99d280d22ec03f632f7af1e1b6f913d86"
+      "path": "assets/simulation-rainbow/vague-e00474-rainbow-v2.mp4",
+      "bytes": 457231,
+      "sha256": "ac6d65ed0f7b64c68faea94c70f22e53d72f1f6eb4a07b56d45e26cda46068a5"
     },
     {
-      "path": "assets/robot/worldflow/task4-3/reference.jpg",
-      "bytes": 45996,
-      "sha256": "4ce6f30d2b832456bd3cf3908bc5b9550864e7516761119447380bab56d4ec13"
+      "path": "assets/simulation-rainbow/vague-e01182-rainbow-v2.jpg",
+      "bytes": 75800,
+      "sha256": "f028ad09642e6305444a065875ea7fb469f183d8ff26bab098a6dc7c8737b760"
     },
     {
-      "path": "assets/robot/worldflow/task4-3/task4-3-realrobot.mp4",
-      "bytes": 390776,
-      "sha256": "653b1e61403022f830acc07c39e382fd1d9bdee8963a8ce86a355d7378d72baa"
+      "path": "assets/simulation-rainbow/vague-e01182-rainbow-v2.mp4",
+      "bytes": 379728,
+      "sha256": "15d02d2327538fcc33ad14c1265fcd8406557c8bd177da6f39214207b8607da9"
     },
     {
-      "path": "assets/robot/worldflow/task5-1/flow_gen.mp4",
-      "bytes": 60338,
-      "sha256": "9100aaa01e42cd9766be26c655746c9e1f7436ceee487f99ce312f7a824e401e"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-1/reference.jpg",
-      "bytes": 41530,
-      "sha256": "91d62e8766e2fa3b0871d17b4a2d3d359d72a995e08f842df530117fc3271543"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-1/task5-1-realrobot.mp4",
-      "bytes": 316439,
-      "sha256": "5c7f54239513b319ce4c23aa2d0d67ca5fafeccebf1caf85c0649bae7848a597"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-2/flow_gen.mp4",
-      "bytes": 58643,
-      "sha256": "934ef093ad22296f6e5e5f77a5878a6d89cd18cbf2e2fd5c2633d7ee8e980bba"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-2/reference.jpg",
-      "bytes": 36479,
-      "sha256": "8e0d2716093b3581bdd0317ec3564ee8efff621be891e80857cf49aae2ef3dae"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-2/task5-2-realrobot.mp4",
-      "bytes": 414909,
-      "sha256": "3238878b3395aa467887f2b44aeae3c157e45cadeffdb7c7f2c8533976762a61"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-3/flow_gen.mp4",
-      "bytes": 55989,
-      "sha256": "188711170b3ddc92b346f8ff1992a635fa4d0bf723496a2fbfc4b0bd84b6f9f6"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-3/reference.jpg",
-      "bytes": 36164,
-      "sha256": "35dc2c7844d56735eb5e5f263f982607b87057e2b33debd5bbcb922570c07526"
-    },
-    {
-      "path": "assets/robot/worldflow/task5-3/task5-3-realrobot.mp4",
-      "bytes": 543177,
-      "sha256": "a70bddfa94ea989a9a18b26fc4847cc5b8ce0e2cde6d1aaba5fb459490713e7b"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-1/flow_gen.mp4",
-      "bytes": 53928,
-      "sha256": "87eeadcb1b538e1bffd0ff3edbf704372e7bcb11fbd776320d094dcda8e47208"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-1/reference.jpg",
-      "bytes": 37961,
-      "sha256": "5b45aae46c93dc9224b7ea24181f40bcdb9d8aeda354890b89f49839a8f4f4a2"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-1/task6-1-realrobot.mp4",
-      "bytes": 481481,
-      "sha256": "fac87fa1f8d88421a6539f4d53e0dc5ee6e1e65bfad15730e23f2ddabcb3c8f6"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-2/flow_gen.mp4",
-      "bytes": 51982,
-      "sha256": "685c943ac37f7117227931b34d1d2aafb69bd1e3d6e6eb461468aa48356b7215"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-2/reference.jpg",
-      "bytes": 38698,
-      "sha256": "c4a74db0a87f1e8016f5687a894bd5a92fa267ce52845f9d3771e98cb2aa2606"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-2/task6-2-realrobot.mp4",
-      "bytes": 375143,
-      "sha256": "2613bb4b820da918e21d98d58ba70e74d7146ea87412b8d7ad8b8065ee145dfc"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-3/flow_gen.mp4",
-      "bytes": 52681,
-      "sha256": "d261f686f55c924eb8c3c538e52193de2e1fda3c9b360d2eff976886617aca1c"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-3/reference.jpg",
-      "bytes": 42032,
-      "sha256": "0794c4231b8507fb7f2a74562af344b7f8541a0a50108327de607a4f2a2f7d63"
-    },
-    {
-      "path": "assets/robot/worldflow/task6-3/task6-3-realrobot.mp4",
-      "bytes": 322048,
-      "sha256": "d660883e577767e93c7415765481f213fd50c0099df0d3b6c1c453b74eff71d1"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-1/flow_gen.mp4",
-      "bytes": 53868,
-      "sha256": "384bbdde776c4664970454546124e2bbc98392a3b569c48820065154229ae5b8"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-1/reference.jpg",
-      "bytes": 36632,
-      "sha256": "4c9d8a91249d001e4cae361d5c343fbdc4b436615d1956e66caa7277568baec6"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-1/task7-1-realrobot.mp4",
-      "bytes": 411531,
-      "sha256": "dea4f4eaffe345fb74736b7e774fbe5b1fd6f33628085d09d3e69b2bf38774b3"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-2/flow_gen.mp4",
-      "bytes": 53685,
-      "sha256": "e86823b544d54e2a7fa51f9531587f18189205ea446d71121329eb97c3f6edac"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-2/reference.jpg",
-      "bytes": 36321,
-      "sha256": "c3fc8b9d41e6afd41ed27a5465cf69942d4a93cc009b7d36ad63427b6eb6daa9"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-2/task7-2-realrobot.mp4",
-      "bytes": 338872,
-      "sha256": "5d453bc58139f44b51a869bfc1745ee6ec2d3e7810f480c2306572c9b202fc5d"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-3/flow_gen.mp4",
-      "bytes": 47738,
-      "sha256": "1a6d3b9e073d87fa81b623622176a6a11534047a8f2009def072a54808bf423f"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-3/reference.jpg",
-      "bytes": 36956,
-      "sha256": "746965627c6dc9f5be4ee490faffc53144da24ae79c962897ab266a449afd702"
-    },
-    {
-      "path": "assets/robot/worldflow/task7-3/task7-3-realrobot.mp4",
-      "bytes": 359104,
-      "sha256": "2b224616784c426a307e738788e1b78e4256f336ce88163bbf4dbad94e9d9e8d"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-1/flow_gen.mp4",
-      "bytes": 54403,
-      "sha256": "790ec666c183946f0c6ca36dcee580656eafd338e29f0dbfabb8b76041fffe45"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-1/reference.jpg",
-      "bytes": 42486,
-      "sha256": "7386f63aee71531d3794da68b01630b7471c172f42c86d1a26a46c88e6aca44f"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-1/task8-1-realrobot.mp4",
-      "bytes": 342852,
-      "sha256": "e19e0a7c90bba5bb5ff23962d3667edea0aa747096222b0c394fc0cede8d340d"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-2/flow_gen.mp4",
-      "bytes": 48960,
-      "sha256": "fb816320721271cc2256178b801e2a5ed7dd4ab9a225d707178d4bf8d6a3bb52"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-2/reference.jpg",
-      "bytes": 36833,
-      "sha256": "4548005d6ed52a8b1c0660975c767f4532665d92a42e97ce00fdd7ea791e9627"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-2/task8-2-realrobot.mp4",
-      "bytes": 454276,
-      "sha256": "97e902af3d68616bfe3ef73b882271048f07d1bd70653cc1c15dca4eb51ab4ba"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-3/flow_gen.mp4",
-      "bytes": 49973,
-      "sha256": "5b8ca88ebfe789bfc783940f4b65512f7dcba0b5bd9db4eab97d02e3bf204116"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-3/reference.jpg",
-      "bytes": 39541,
-      "sha256": "d528f044d6280fd71fe552b6c525f8051bbab5bf4c14bd323b4c91eb29a9913a"
-    },
-    {
-      "path": "assets/robot/worldflow/task8-3/task8-3-realrobot.mp4",
-      "bytes": 397931,
-      "sha256": "4d84452643868af48af7868877eb1dddd14ba2bfa08852798e1996056310ac7c"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-1/flow_gen.mp4",
-      "bytes": 46729,
-      "sha256": "2eb7cdc5cfae123991eaf4fc3daba8900364d2863cd2ed0d47212a12dc011848"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-1/reference.jpg",
-      "bytes": 33771,
-      "sha256": "41c5548852d1bc25f0f7eb3fd0bb2a3eb29000a0fe7e72a3dcfa1be1be133cb3"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-1/task9-1-realrobot.mp4",
-      "bytes": 472201,
-      "sha256": "5c6862e8c669f0375cf7fdbb4ca652cd34eaa207d6322ca4e4708a124aff4d23"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-2/flow_gen.mp4",
-      "bytes": 47419,
-      "sha256": "cecbe64cc3f92e6ccf71d8bc5fb24b0f2ddae0c21edb1011fae0a4175075d5ed"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-2/reference.jpg",
-      "bytes": 38339,
-      "sha256": "52a1c3d4181016e6ce326e27381bc1502c02d815e7eba1a0103dc61c25e3f0c3"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-2/task9-2-realrobot.mp4",
-      "bytes": 344729,
-      "sha256": "9487877f40833a994ed888a9d5a6289fc836f1db2afb0aa575a7e2a6eeeb656d"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-3/flow_gen.mp4",
-      "bytes": 55523,
-      "sha256": "644e22f8c88aa9e89e54ec6f43f6e659c61a766490f4691ca1d357dd8d5a457b"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-3/reference.jpg",
-      "bytes": 42738,
-      "sha256": "d0aac3a6f7c3f181ca0e4d03cdf67a153284c496ff3e0f9fcc5be390076f4a2a"
-    },
-    {
-      "path": "assets/robot/worldflow/task9-3/task9-3-realrobot.mp4",
-      "bytes": 1199668,
-      "sha256": "4e622601869363cf86cf12873bce5e3133e7e307fd3e4d400cada8ddc2547c2e"
+      "path": "assets/simulation.css",
+      "bytes": 7592,
+      "sha256": "e3970af93bdb7df64de77cc60503d2a22646c5c006da8ace8e5b90f50976d412"
     },
     {
       "path": "assets/style.css",
       "bytes": 11778,
       "sha256": "c8ac4af830e5040b152df9ee3ccccd8966f220d7de72ef13d0954bf7b4816ee2"
-    },
-    {
-      "path": "assets/tracking-comparison.css",
-      "bytes": 3111,
-      "sha256": "a98e270ef768a4294055ebdfc98ac09bfce40795808be8deeee3fc293a32b1fc"
-    },
-    {
-      "path": "assets/tracking-comparison.js",
-      "bytes": 5073,
-      "sha256": "07bab3fcabb2931dc0af2bf6d5deaf43541fa11ae6a6484ad4d10d3d147e407d"
     },
     {
       "path": "assets/tracking-comparison/0268/4rc.jpg",
@@ -4269,6 +4939,16 @@
       "sha256": "cd7ba6ae54bd1265827f22597d705b6cab79b61a1ce985ac514367c16bc06fe0"
     },
     {
+      "path": "assets/tracking-comparison.css",
+      "bytes": 3111,
+      "sha256": "a98e270ef768a4294055ebdfc98ac09bfce40795808be8deeee3fc293a32b1fc"
+    },
+    {
+      "path": "assets/tracking-comparison.js",
+      "bytes": 5073,
+      "sha256": "07bab3fcabb2931dc0af2bf6d5deaf43541fa11ae6a6484ad4d10d3d147e407d"
+    },
+    {
       "path": "assets/video-comparison.css",
       "bytes": 6012,
       "sha256": "2b0d6aba3aca55fbab8e931481872d5e7100d19ea56ee9bbf8d673b1b0d2e4e4"
@@ -4279,9 +4959,19 @@
       "sha256": "2008f348a1e16db8c009f1ecfe5c963425c3e6efdda4f29d7cf870d1ca6bf642"
     },
     {
+      "path": "assets/worldflow-hero-gallery-generated-v2.jpg",
+      "bytes": 650364,
+      "sha256": "31c9d4841821dcc8a7138a1777d6c7e05d9d6556871269ef2d76969e1f8bfc89"
+    },
+    {
+      "path": "assets/worldflow-hero-gallery-generated-v2.mp4",
+      "bytes": 4310620,
+      "sha256": "75e60e694a7608a832af61272ee45d5659af8c224a5cb97dccc4db91731110c9"
+    },
+    {
       "path": "index.html",
-      "bytes": 169369,
-      "sha256": "12ee8002a4b4e52cb5665dfc3050d0d379f430d89a6f2d76cdfb41293a4d3dcd"
+      "bytes": 197869,
+      "sha256": "0a84a1b301c1f4b64461cf4e8d24878cdff66852c8474a3cf95127be2bf19c71"
     }
   ]
 }

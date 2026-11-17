@@ -8,3 +8,7 @@
 - RoboScience wordmark: https://gensight-rbs.github.io/static/images/roboscience-logo-black-cropped.png (used in the GenSight project header).
 
 Original project ownership and third-party brand rights remain with their respective owners. No new license is assigned to the paper, model, data or research assets by this package.
+
+- Simulation reference leaderboard: RoboLab official leaderboard.json version 81, checked 2026-11-17. Only Simple results for the selected instruction setting are included; WorldFlow entries are project measurements, not official submissions.
+- Simulation clips and paired motion predictions: project-selected successful WorldFlow-Orch cases, transferred from the latest local review version.
+- Hero gallery: generated RGB with flow, matching the latest local anonymous version.
